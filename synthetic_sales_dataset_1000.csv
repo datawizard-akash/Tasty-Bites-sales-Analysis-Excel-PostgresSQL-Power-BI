@@ -1,0 +1,1001 @@
+order_id,order_date,productI_id,product_name,category,quantity,unit_price,cost_per_unit,discount,customer_type,payment_mode
+ORD0001,5/17/2024,P003,Veg Sandwich,Meals,4,60,35,6.28,New,Wallet
+ORD0002,9/13/2024,P004,Chocolate Bar,Snacks,6,25,10,8.61,Returning,Wallet
+ORD0003,4/16/2024,P002,Potato Chips,Snacks,4,40,20,13.98,New,Card
+ORD0004,3/21/2024,P005,Coffee,Beverages,8,50,25,16.28,New,UPI
+ORD0005,12/25/2024,P004,Chocolate Bar,Snacks,5,25,10,6.89,Returning,Card
+ORD0006,12/21/2024,P002,Potato Chips,Snacks,1,40,20,9.3,New,Wallet
+ORD0007,1/23/2024,P001,Cola Drink,Beverages,4,30,15,23.17,Returning,Wallet
+ORD0008,1/11/2024,P001,Cola Drink,Beverages,4,30,15,4.81,New,Card
+ORD0009,4/8/2024,P005,Coffee,Beverages,4,50,25,3.17,Returning,Wallet
+ORD0010,3/5/2024,P005,Coffee,Beverages,5,50,25,15.56,New,UPI
+ORD0011,9/14/2024,P001,Cola Drink,Beverages,4,30,15,21.65,New,UPI
+ORD0012,9/24/2024,P002,Potato Chips,Snacks,6,40,20,0.02,New,Card
+ORD0013,5/21/2024,P001,Cola Drink,Beverages,1,30,15,17.51,Returning,Cash
+ORD0014,9/27/2024,P004,Chocolate Bar,Snacks,2,25,10,19.25,Returning,Card
+ORD0015,1/7/2024,P001,Cola Drink,Beverages,3,30,15,18.13,New,UPI
+ORD0016,5/21/2024,P005,Coffee,Beverages,6,50,25,22.03,Returning,Card
+ORD0017,4/3/2024,P005,Coffee,Beverages,3,50,25,19.56,Returning,Cash
+ORD0018,2/1/2024,P005,Coffee,Beverages,2,50,25,12.89,Returning,Cash
+ORD0019,10/10/2024,P003,Veg Sandwich,Meals,7,60,35,0.21,Returning,Card
+ORD0020,3/4/2024,P001,Cola Drink,Beverages,1,30,15,6.9,Returning,UPI
+ORD0021,10/12/2024,P001,Cola Drink,Beverages,5,30,15,9.09,New,Card
+ORD0022,5/11/2024,P005,Coffee,Beverages,1,50,25,19.94,New,Wallet
+ORD0023,9/14/2024,P002,Potato Chips,Snacks,8,40,20,1.87,Returning,Cash
+ORD0024,12/26/2024,P003,Veg Sandwich,Meals,1,60,35,10.73,New,Card
+ORD0025,6/7/2024,P001,Cola Drink,Beverages,2,30,15,2.98,New,UPI
+ORD0026,2/29/2024,P002,Potato Chips,Snacks,3,40,20,5.81,New,Cash
+ORD0027,10/31/2024,P002,Potato Chips,Snacks,4,40,20,8.55,Returning,UPI
+ORD0028,5/16/2024,P001,Cola Drink,Beverages,5,30,15,12.32,Returning,Wallet
+ORD0029,6/16/2024,P001,Cola Drink,Beverages,6,30,15,2.41,New,Cash
+ORD0030,5/17/2024,P005,Coffee,Beverages,6,50,25,14.14,Returning,Card
+ORD0031,7/14/2024,P005,Coffee,Beverages,2,50,25,16.97,New,UPI
+ORD0032,3/1/2024,P003,Veg Sandwich,Meals,7,60,35,7.05,Returning,Card
+ORD0033,12/29/2024,P003,Veg Sandwich,Meals,3,60,35,24.15,New,UPI
+ORD0034,2/4/2024,P005,Coffee,Beverages,3,50,25,9.02,New,Card
+ORD0035,10/17/2024,P005,Coffee,Beverages,8,50,25,19.59,Returning,Wallet
+ORD0036,8/17/2024,P002,Potato Chips,Snacks,1,40,20,22.3,Returning,Wallet
+ORD0037,8/23/2024,P003,Veg Sandwich,Meals,4,60,35,0.12,Returning,Wallet
+ORD0038,10/29/2024,P001,Cola Drink,Beverages,5,30,15,23.82,New,UPI
+ORD0039,3/25/2024,P005,Coffee,Beverages,1,50,25,13.34,New,Card
+ORD0040,7/3/2024,P005,Coffee,Beverages,5,50,25,4.94,Returning,Wallet
+ORD0041,4/30/2024,P003,Veg Sandwich,Meals,3,60,35,5.81,New,UPI
+ORD0042,12/25/2024,P004,Chocolate Bar,Snacks,8,25,10,12.01,New,Card
+ORD0043,11/26/2024,P003,Veg Sandwich,Meals,4,60,35,15.07,New,Wallet
+ORD0044,1/8/2024,P001,Cola Drink,Beverages,2,30,15,10.9,Returning,Cash
+ORD0045,5/26/2024,P004,Chocolate Bar,Snacks,2,25,10,17.42,Returning,Cash
+ORD0046,12/31/2024,P005,Coffee,Beverages,4,50,25,11.64,New,Cash
+ORD0047,1/3/2024,P003,Veg Sandwich,Meals,6,60,35,23.76,New,Card
+ORD0048,3/26/2024,P004,Chocolate Bar,Snacks,6,25,10,24.48,Returning,UPI
+ORD0049,4/28/2024,P003,Veg Sandwich,Meals,7,60,35,12.92,New,Wallet
+ORD0050,5/16/2024,P001,Cola Drink,Beverages,1,30,15,23.56,New,UPI
+ORD0051,3/22/2024,P003,Veg Sandwich,Meals,1,60,35,16.14,New,Card
+ORD0052,12/24/2024,P001,Cola Drink,Beverages,7,30,15,11.84,New,Card
+ORD0053,10/24/2024,P003,Veg Sandwich,Meals,6,60,35,20.52,Returning,UPI
+ORD0054,6/28/2024,P001,Cola Drink,Beverages,4,30,15,14.44,New,UPI
+ORD0055,10/19/2024,P002,Potato Chips,Snacks,1,40,20,16.29,New,Wallet
+ORD0056,4/21/2024,P001,Cola Drink,Beverages,3,30,15,19.99,New,Cash
+ORD0057,1/22/2024,P004,Chocolate Bar,Snacks,1,25,10,4.94,Returning,UPI
+ORD0058,12/11/2024,P001,Cola Drink,Beverages,7,30,15,9.75,Returning,Cash
+ORD0059,3/17/2024,P001,Cola Drink,Beverages,4,30,15,15.32,Returning,Card
+ORD0060,3/15/2024,P003,Veg Sandwich,Meals,7,60,35,2.12,Returning,Cash
+ORD0061,8/18/2024,P003,Veg Sandwich,Meals,5,60,35,19.92,New,Wallet
+ORD0062,3/5/2024,P005,Coffee,Beverages,3,50,25,22.93,Returning,Wallet
+ORD0063,12/7/2024,P001,Cola Drink,Beverages,6,30,15,2.92,Returning,Wallet
+ORD0064,4/12/2024,P003,Veg Sandwich,Meals,3,60,35,0.22,New,UPI
+ORD0065,5/14/2024,P001,Cola Drink,Beverages,7,30,15,11.46,Returning,Cash
+ORD0066,7/25/2024,P004,Chocolate Bar,Snacks,3,25,10,10.94,New,Card
+ORD0067,4/11/2024,P001,Cola Drink,Beverages,6,30,15,2.06,Returning,Card
+ORD0068,7/24/2024,P004,Chocolate Bar,Snacks,2,25,10,13.16,New,UPI
+ORD0069,9/1/2024,P002,Potato Chips,Snacks,6,40,20,23.19,New,UPI
+ORD0070,2/2/2024,P004,Chocolate Bar,Snacks,1,25,10,12.14,New,Card
+ORD0071,12/22/2024,P002,Potato Chips,Snacks,8,40,20,13.84,Returning,Wallet
+ORD0072,1/27/2024,P002,Potato Chips,Snacks,2,40,20,3.67,New,UPI
+ORD0073,4/25/2024,P005,Coffee,Beverages,8,50,25,13.26,Returning,UPI
+ORD0074,2/18/2024,P003,Veg Sandwich,Meals,3,60,35,10.56,Returning,UPI
+ORD0075,2/17/2024,P003,Veg Sandwich,Meals,1,60,35,4.24,New,Wallet
+ORD0076,2/4/2024,P003,Veg Sandwich,Meals,6,60,35,14.86,Returning,Card
+ORD0077,5/22/2024,P005,Coffee,Beverages,5,50,25,3.02,New,Card
+ORD0078,1/30/2024,P001,Cola Drink,Beverages,1,30,15,14.54,Returning,UPI
+ORD0079,4/4/2024,P003,Veg Sandwich,Meals,7,60,35,19.24,Returning,Card
+ORD0080,12/14/2024,P001,Cola Drink,Beverages,3,30,15,13.28,New,Wallet
+ORD0081,10/26/2024,P004,Chocolate Bar,Snacks,2,25,10,10.48,Returning,Card
+ORD0082,12/20/2024,P005,Coffee,Beverages,7,50,25,18.01,New,Card
+ORD0083,5/31/2024,P002,Potato Chips,Snacks,8,40,20,15.26,New,Wallet
+ORD0084,5/27/2024,P002,Potato Chips,Snacks,3,40,20,8.22,New,Wallet
+ORD0085,9/4/2024,P003,Veg Sandwich,Meals,2,60,35,3.32,Returning,UPI
+ORD0086,2/3/2024,P005,Coffee,Beverages,7,50,25,0.06,New,Card
+ORD0087,7/21/2024,P005,Coffee,Beverages,7,50,25,4.06,New,UPI
+ORD0088,4/17/2024,P004,Chocolate Bar,Snacks,3,25,10,13.22,New,UPI
+ORD0089,10/15/2024,P002,Potato Chips,Snacks,4,40,20,21.94,Returning,Cash
+ORD0090,8/7/2024,P005,Coffee,Beverages,8,50,25,23.6,New,Cash
+ORD0091,12/6/2024,P004,Chocolate Bar,Snacks,5,25,10,3.24,Returning,Wallet
+ORD0092,5/27/2024,P003,Veg Sandwich,Meals,4,60,35,13.16,New,Cash
+ORD0093,10/4/2024,P004,Chocolate Bar,Snacks,5,25,10,24.42,Returning,Cash
+ORD0094,3/19/2024,P002,Potato Chips,Snacks,3,40,20,20.76,New,UPI
+ORD0095,11/12/2024,P003,Veg Sandwich,Meals,5,60,35,12.96,Returning,Cash
+ORD0096,8/3/2024,P004,Chocolate Bar,Snacks,2,25,10,1.49,Returning,Wallet
+ORD0097,2/14/2024,P001,Cola Drink,Beverages,3,30,15,16.62,Returning,Wallet
+ORD0098,4/10/2024,P005,Coffee,Beverages,4,50,25,12.69,New,Cash
+ORD0099,7/8/2024,P004,Chocolate Bar,Snacks,3,25,10,5.22,New,Card
+ORD0100,4/13/2024,P001,Cola Drink,Beverages,4,30,15,5.35,Returning,UPI
+ORD0101,7/2/2024,P005,Coffee,Beverages,1,50,25,0.54,New,UPI
+ORD0102,11/7/2024,P005,Coffee,Beverages,8,50,25,11.64,Returning,UPI
+ORD0103,7/23/2024,P001,Cola Drink,Beverages,5,30,15,11.25,New,Card
+ORD0104,9/4/2024,P001,Cola Drink,Beverages,3,30,15,11.61,New,Cash
+ORD0105,2/20/2024,P001,Cola Drink,Beverages,3,30,15,13.63,New,Cash
+ORD0106,3/24/2024,P001,Cola Drink,Beverages,3,30,15,4.83,Returning,UPI
+ORD0107,1/4/2024,P003,Veg Sandwich,Meals,7,60,35,7.24,New,Wallet
+ORD0108,2/28/2024,P003,Veg Sandwich,Meals,6,60,35,10.96,New,UPI
+ORD0109,11/15/2024,P001,Cola Drink,Beverages,3,30,15,1.95,Returning,Card
+ORD0110,8/8/2024,P001,Cola Drink,Beverages,3,30,15,20.44,Returning,Cash
+ORD0111,11/30/2024,P001,Cola Drink,Beverages,4,30,15,21.23,New,UPI
+ORD0112,8/24/2024,P003,Veg Sandwich,Meals,6,60,35,8.76,New,Card
+ORD0113,3/11/2024,P001,Cola Drink,Beverages,8,30,15,18.25,Returning,Card
+ORD0114,8/11/2024,P005,Coffee,Beverages,4,50,25,14.06,New,Wallet
+ORD0115,10/10/2024,P003,Veg Sandwich,Meals,1,60,35,19.29,Returning,Cash
+ORD0116,5/25/2024,P001,Cola Drink,Beverages,2,30,15,18.41,Returning,Card
+ORD0117,7/11/2024,P003,Veg Sandwich,Meals,8,60,35,1.23,Returning,Cash
+ORD0118,12/25/2024,P004,Chocolate Bar,Snacks,4,25,10,17.57,Returning,Wallet
+ORD0119,11/29/2024,P005,Coffee,Beverages,5,50,25,8.66,New,Wallet
+ORD0120,10/15/2024,P001,Cola Drink,Beverages,2,30,15,17.36,New,Wallet
+ORD0121,10/14/2024,P003,Veg Sandwich,Meals,1,60,35,0.38,Returning,Card
+ORD0122,6/19/2024,P001,Cola Drink,Beverages,8,30,15,11.57,New,Wallet
+ORD0123,12/8/2024,P004,Chocolate Bar,Snacks,5,25,10,15.5,Returning,UPI
+ORD0124,9/17/2024,P002,Potato Chips,Snacks,1,40,20,2.57,New,UPI
+ORD0125,7/26/2024,P004,Chocolate Bar,Snacks,3,25,10,10,Returning,UPI
+ORD0126,4/2/2024,P001,Cola Drink,Beverages,6,30,15,22.53,Returning,UPI
+ORD0127,3/10/2024,P002,Potato Chips,Snacks,7,40,20,6.7,Returning,UPI
+ORD0128,3/24/2024,P001,Cola Drink,Beverages,6,30,15,6.67,Returning,Wallet
+ORD0129,8/24/2024,P003,Veg Sandwich,Meals,1,60,35,0.86,Returning,Wallet
+ORD0130,11/26/2024,P002,Potato Chips,Snacks,7,40,20,0.75,New,UPI
+ORD0131,6/12/2024,P001,Cola Drink,Beverages,8,30,15,17.58,New,Card
+ORD0132,1/30/2024,P003,Veg Sandwich,Meals,7,60,35,10.51,New,Wallet
+ORD0133,6/12/2024,P005,Coffee,Beverages,5,50,25,13.61,New,Card
+ORD0134,10/17/2024,P005,Coffee,Beverages,6,50,25,2.03,New,UPI
+ORD0135,4/24/2024,P004,Chocolate Bar,Snacks,5,25,10,21.5,New,UPI
+ORD0136,8/12/2024,P002,Potato Chips,Snacks,5,40,20,10.55,Returning,Card
+ORD0137,1/19/2024,P003,Veg Sandwich,Meals,2,60,35,20.83,New,UPI
+ORD0138,4/2/2024,P003,Veg Sandwich,Meals,8,60,35,8,New,Cash
+ORD0139,11/18/2024,P001,Cola Drink,Beverages,3,30,15,21.76,New,Card
+ORD0140,9/23/2024,P003,Veg Sandwich,Meals,7,60,35,2.54,Returning,UPI
+ORD0141,11/18/2024,P004,Chocolate Bar,Snacks,7,25,10,21.51,Returning,Cash
+ORD0142,2/21/2024,P001,Cola Drink,Beverages,6,30,15,23.97,Returning,Cash
+ORD0143,4/24/2024,P001,Cola Drink,Beverages,6,30,15,11.23,Returning,Wallet
+ORD0144,7/9/2024,P002,Potato Chips,Snacks,3,40,20,20.24,Returning,Wallet
+ORD0145,1/28/2024,P005,Coffee,Beverages,5,50,25,7.37,Returning,Card
+ORD0146,8/30/2024,P004,Chocolate Bar,Snacks,6,25,10,17.79,Returning,Wallet
+ORD0147,1/27/2024,P005,Coffee,Beverages,5,50,25,20.59,Returning,UPI
+ORD0148,6/1/2024,P003,Veg Sandwich,Meals,3,60,35,10.95,New,Cash
+ORD0149,10/30/2024,P004,Chocolate Bar,Snacks,3,25,10,4.64,New,UPI
+ORD0150,8/4/2024,P003,Veg Sandwich,Meals,4,60,35,14.55,New,Wallet
+ORD0151,4/29/2024,P003,Veg Sandwich,Meals,1,60,35,8.45,Returning,UPI
+ORD0152,11/28/2024,P001,Cola Drink,Beverages,8,30,15,10.22,New,Cash
+ORD0153,7/18/2024,P005,Coffee,Beverages,4,50,25,14.3,Returning,Card
+ORD0154,10/14/2024,P003,Veg Sandwich,Meals,4,60,35,8.73,Returning,Card
+ORD0155,2/21/2024,P001,Cola Drink,Beverages,4,30,15,15.23,New,Cash
+ORD0156,12/4/2024,P004,Chocolate Bar,Snacks,6,25,10,11.47,New,Card
+ORD0157,2/11/2024,P004,Chocolate Bar,Snacks,4,25,10,3.72,New,Cash
+ORD0158,1/31/2024,P001,Cola Drink,Beverages,4,30,15,24.17,Returning,Cash
+ORD0159,3/18/2024,P002,Potato Chips,Snacks,6,40,20,8.5,Returning,UPI
+ORD0160,4/2/2024,P004,Chocolate Bar,Snacks,4,25,10,20.54,New,Cash
+ORD0161,12/8/2024,P001,Cola Drink,Beverages,2,30,15,9.64,Returning,Wallet
+ORD0162,7/23/2024,P002,Potato Chips,Snacks,5,40,20,1.24,New,Cash
+ORD0163,3/6/2024,P002,Potato Chips,Snacks,4,40,20,20.14,New,Cash
+ORD0164,6/16/2024,P005,Coffee,Beverages,6,50,25,10.33,Returning,Cash
+ORD0165,5/10/2024,P003,Veg Sandwich,Meals,5,60,35,2.2,New,Card
+ORD0166,1/13/2024,P001,Cola Drink,Beverages,6,30,15,18.38,Returning,Card
+ORD0167,11/24/2024,P005,Coffee,Beverages,5,50,25,16.22,Returning,UPI
+ORD0168,6/7/2024,P003,Veg Sandwich,Meals,5,60,35,7.9,New,UPI
+ORD0169,1/29/2024,P001,Cola Drink,Beverages,1,30,15,16.52,Returning,Card
+ORD0170,9/10/2024,P003,Veg Sandwich,Meals,5,60,35,14.33,New,Cash
+ORD0171,2/22/2024,P005,Coffee,Beverages,4,50,25,9.56,Returning,Wallet
+ORD0172,9/4/2024,P002,Potato Chips,Snacks,4,40,20,11.26,Returning,Cash
+ORD0173,5/25/2024,P003,Veg Sandwich,Meals,5,60,35,1.55,Returning,Wallet
+ORD0174,9/25/2024,P005,Coffee,Beverages,5,50,25,5.84,Returning,UPI
+ORD0175,8/4/2024,P002,Potato Chips,Snacks,5,40,20,15.09,New,UPI
+ORD0176,9/21/2024,P004,Chocolate Bar,Snacks,5,25,10,1.21,New,Wallet
+ORD0177,7/8/2024,P001,Cola Drink,Beverages,6,30,15,2.49,New,Wallet
+ORD0178,6/23/2024,P003,Veg Sandwich,Meals,6,60,35,12.62,New,UPI
+ORD0179,5/29/2024,P005,Coffee,Beverages,6,50,25,13.47,Returning,Wallet
+ORD0180,7/12/2024,P002,Potato Chips,Snacks,1,40,20,8.99,New,Cash
+ORD0181,2/19/2024,P003,Veg Sandwich,Meals,3,60,35,22.04,New,Card
+ORD0182,6/27/2024,P001,Cola Drink,Beverages,6,30,15,20.1,Returning,Cash
+ORD0183,6/23/2024,P002,Potato Chips,Snacks,1,40,20,10.39,New,Cash
+ORD0184,3/8/2024,P005,Coffee,Beverages,8,50,25,3.14,New,UPI
+ORD0185,2/17/2024,P002,Potato Chips,Snacks,7,40,20,11.2,New,Wallet
+ORD0186,6/20/2024,P003,Veg Sandwich,Meals,1,60,35,15.76,Returning,UPI
+ORD0187,1/19/2024,P001,Cola Drink,Beverages,4,30,15,1.82,Returning,Cash
+ORD0188,10/18/2024,P004,Chocolate Bar,Snacks,7,25,10,13.1,Returning,Card
+ORD0189,10/15/2024,P003,Veg Sandwich,Meals,4,60,35,24.29,New,Wallet
+ORD0190,2/22/2024,P005,Coffee,Beverages,7,50,25,19.13,Returning,UPI
+ORD0191,3/20/2024,P002,Potato Chips,Snacks,1,40,20,24,New,Wallet
+ORD0192,12/30/2024,P001,Cola Drink,Beverages,4,30,15,1.4,Returning,Wallet
+ORD0193,12/9/2024,P005,Coffee,Beverages,2,50,25,14.48,Returning,UPI
+ORD0194,9/8/2024,P004,Chocolate Bar,Snacks,2,25,10,23.94,Returning,Cash
+ORD0195,10/31/2024,P001,Cola Drink,Beverages,8,30,15,21.51,New,Card
+ORD0196,4/18/2024,P001,Cola Drink,Beverages,8,30,15,15.22,Returning,UPI
+ORD0197,4/1/2024,P001,Cola Drink,Beverages,7,30,15,11.23,New,Cash
+ORD0198,7/8/2024,P003,Veg Sandwich,Meals,4,60,35,2.62,Returning,Card
+ORD0199,5/26/2024,P005,Coffee,Beverages,5,50,25,6.63,New,UPI
+ORD0200,1/2/2024,P002,Potato Chips,Snacks,8,40,20,17.12,Returning,UPI
+ORD0201,5/6/2024,P004,Chocolate Bar,Snacks,6,25,10,22.93,New,Card
+ORD0202,5/6/2024,P001,Cola Drink,Beverages,8,30,15,13.29,Returning,Wallet
+ORD0203,6/16/2024,P001,Cola Drink,Beverages,7,30,15,0.09,New,Wallet
+ORD0204,12/12/2024,P005,Coffee,Beverages,4,50,25,12.45,Returning,UPI
+ORD0205,4/28/2024,P005,Coffee,Beverages,8,50,25,2.76,Returning,UPI
+ORD0206,10/1/2024,P001,Cola Drink,Beverages,7,30,15,2.58,New,UPI
+ORD0207,7/19/2024,P003,Veg Sandwich,Meals,7,60,35,8.61,New,UPI
+ORD0208,5/7/2024,P002,Potato Chips,Snacks,7,40,20,14.66,Returning,Cash
+ORD0209,12/17/2024,P003,Veg Sandwich,Meals,2,60,35,4.35,Returning,Wallet
+ORD0210,12/5/2024,P002,Potato Chips,Snacks,2,40,20,9.94,New,Card
+ORD0211,1/6/2024,P002,Potato Chips,Snacks,6,40,20,19.4,New,UPI
+ORD0212,10/29/2024,P004,Chocolate Bar,Snacks,4,25,10,4.41,New,Card
+ORD0213,1/13/2024,P003,Veg Sandwich,Meals,3,60,35,6.7,Returning,Card
+ORD0214,11/8/2024,P001,Cola Drink,Beverages,5,30,15,17.18,New,UPI
+ORD0215,9/28/2024,P003,Veg Sandwich,Meals,1,60,35,3.31,New,UPI
+ORD0216,4/21/2024,P004,Chocolate Bar,Snacks,4,25,10,12.5,Returning,UPI
+ORD0217,8/10/2024,P005,Coffee,Beverages,1,50,25,7.24,New,Wallet
+ORD0218,5/16/2024,P003,Veg Sandwich,Meals,3,60,35,19.74,Returning,Card
+ORD0219,6/6/2024,P002,Potato Chips,Snacks,2,40,20,0.14,New,Card
+ORD0220,9/19/2024,P003,Veg Sandwich,Meals,7,60,35,14.84,New,UPI
+ORD0221,2/11/2024,P004,Chocolate Bar,Snacks,6,25,10,20.15,Returning,UPI
+ORD0222,9/12/2024,P002,Potato Chips,Snacks,2,40,20,8.39,Returning,Card
+ORD0223,3/26/2024,P001,Cola Drink,Beverages,7,30,15,8.26,Returning,Wallet
+ORD0224,10/18/2024,P001,Cola Drink,Beverages,3,30,15,0.04,New,Cash
+ORD0225,8/3/2024,P001,Cola Drink,Beverages,2,30,15,19.67,New,Card
+ORD0226,3/13/2024,P001,Cola Drink,Beverages,8,30,15,9.68,New,Card
+ORD0227,6/24/2024,P002,Potato Chips,Snacks,5,40,20,20.42,New,Card
+ORD0228,3/24/2024,P005,Coffee,Beverages,5,50,25,22.53,Returning,Cash
+ORD0229,1/30/2024,P004,Chocolate Bar,Snacks,3,25,10,16.05,New,Wallet
+ORD0230,12/24/2024,P001,Cola Drink,Beverages,4,30,15,22.82,New,Wallet
+ORD0231,5/29/2024,P004,Chocolate Bar,Snacks,1,25,10,3.89,New,Cash
+ORD0232,5/3/2024,P001,Cola Drink,Beverages,6,30,15,19.57,Returning,Card
+ORD0233,7/24/2024,P003,Veg Sandwich,Meals,3,60,35,3.56,Returning,Cash
+ORD0234,6/21/2024,P004,Chocolate Bar,Snacks,5,25,10,14.85,Returning,Card
+ORD0235,10/5/2024,P002,Potato Chips,Snacks,4,40,20,19.79,New,Cash
+ORD0236,1/1/2024,P005,Coffee,Beverages,3,50,25,7.57,New,Card
+ORD0237,3/22/2024,P001,Cola Drink,Beverages,8,30,15,14.22,Returning,Cash
+ORD0238,2/10/2024,P004,Chocolate Bar,Snacks,2,25,10,8.65,New,Cash
+ORD0239,1/28/2024,P005,Coffee,Beverages,4,50,25,1.23,Returning,Cash
+ORD0240,10/16/2024,P001,Cola Drink,Beverages,1,30,15,12.99,New,UPI
+ORD0241,1/20/2024,P005,Coffee,Beverages,7,50,25,11.18,Returning,UPI
+ORD0242,12/24/2024,P003,Veg Sandwich,Meals,5,60,35,8.88,New,UPI
+ORD0243,7/6/2024,P002,Potato Chips,Snacks,2,40,20,13.55,Returning,Wallet
+ORD0244,1/28/2024,P003,Veg Sandwich,Meals,2,60,35,5.83,Returning,Wallet
+ORD0245,7/5/2024,P001,Cola Drink,Beverages,1,30,15,13.4,New,Cash
+ORD0246,2/13/2024,P002,Potato Chips,Snacks,8,40,20,9.7,New,Wallet
+ORD0247,11/19/2024,P001,Cola Drink,Beverages,5,30,15,2.72,New,Cash
+ORD0248,7/7/2024,P002,Potato Chips,Snacks,1,40,20,0.01,Returning,Wallet
+ORD0249,6/1/2024,P001,Cola Drink,Beverages,5,30,15,15,New,Card
+ORD0250,5/19/2024,P005,Coffee,Beverages,6,50,25,19.69,New,Wallet
+ORD0251,7/30/2024,P005,Coffee,Beverages,7,50,25,6.49,Returning,Wallet
+ORD0252,1/15/2024,P005,Coffee,Beverages,4,50,25,23.87,Returning,Wallet
+ORD0253,12/18/2024,P004,Chocolate Bar,Snacks,5,25,10,18.7,New,Cash
+ORD0254,4/25/2024,P004,Chocolate Bar,Snacks,2,25,10,12.9,Returning,Cash
+ORD0255,1/5/2024,P004,Chocolate Bar,Snacks,7,25,10,5.88,New,Card
+ORD0256,6/29/2024,P002,Potato Chips,Snacks,7,40,20,18.02,New,Wallet
+ORD0257,6/25/2024,P002,Potato Chips,Snacks,8,40,20,14.76,New,UPI
+ORD0258,7/5/2024,P001,Cola Drink,Beverages,7,30,15,20.63,Returning,Card
+ORD0259,5/31/2024,P003,Veg Sandwich,Meals,3,60,35,11.84,New,Card
+ORD0260,6/24/2024,P003,Veg Sandwich,Meals,4,60,35,12.93,Returning,Cash
+ORD0261,9/8/2024,P002,Potato Chips,Snacks,1,40,20,23.46,Returning,Card
+ORD0262,10/25/2024,P005,Coffee,Beverages,6,50,25,13.68,Returning,Card
+ORD0263,10/10/2024,P004,Chocolate Bar,Snacks,2,25,10,2.92,New,UPI
+ORD0264,8/2/2024,P005,Coffee,Beverages,1,50,25,15.45,Returning,UPI
+ORD0265,7/21/2024,P003,Veg Sandwich,Meals,1,60,35,7.54,New,Wallet
+ORD0266,2/4/2024,P003,Veg Sandwich,Meals,7,60,35,23.75,Returning,Card
+ORD0267,12/29/2024,P005,Coffee,Beverages,2,50,25,17.21,New,Cash
+ORD0268,6/4/2024,P002,Potato Chips,Snacks,2,40,20,7.98,Returning,Card
+ORD0269,9/13/2024,P005,Coffee,Beverages,2,50,25,18.68,New,Cash
+ORD0270,2/25/2024,P003,Veg Sandwich,Meals,1,60,35,15.22,Returning,Card
+ORD0271,5/28/2024,P001,Cola Drink,Beverages,1,30,15,23.98,New,Wallet
+ORD0272,5/23/2024,P005,Coffee,Beverages,6,50,25,0.99,New,UPI
+ORD0273,1/29/2024,P005,Coffee,Beverages,1,50,25,17.5,Returning,Card
+ORD0274,2/12/2024,P004,Chocolate Bar,Snacks,3,25,10,3.73,Returning,Wallet
+ORD0275,5/14/2024,P005,Coffee,Beverages,7,50,25,15.63,New,UPI
+ORD0276,3/20/2024,P004,Chocolate Bar,Snacks,4,25,10,6.82,Returning,Wallet
+ORD0277,9/15/2024,P005,Coffee,Beverages,2,50,25,21.93,New,UPI
+ORD0278,5/26/2024,P003,Veg Sandwich,Meals,5,60,35,3.3,Returning,Cash
+ORD0279,12/2/2024,P001,Cola Drink,Beverages,2,30,15,12.49,Returning,Wallet
+ORD0280,12/21/2024,P003,Veg Sandwich,Meals,6,60,35,7.65,New,Wallet
+ORD0281,12/5/2024,P005,Coffee,Beverages,2,50,25,23.41,Returning,Cash
+ORD0282,3/10/2024,P002,Potato Chips,Snacks,2,40,20,19.2,Returning,UPI
+ORD0283,12/6/2024,P002,Potato Chips,Snacks,8,40,20,20.82,Returning,Cash
+ORD0284,3/18/2024,P002,Potato Chips,Snacks,1,40,20,23.06,New,Wallet
+ORD0285,2/18/2024,P001,Cola Drink,Beverages,7,30,15,4.46,Returning,Wallet
+ORD0286,3/14/2024,P003,Veg Sandwich,Meals,1,60,35,17.8,New,UPI
+ORD0287,3/6/2024,P001,Cola Drink,Beverages,5,30,15,10.01,Returning,UPI
+ORD0288,11/8/2024,P001,Cola Drink,Beverages,2,30,15,9.06,New,Wallet
+ORD0289,6/17/2024,P004,Chocolate Bar,Snacks,1,25,10,10.17,Returning,UPI
+ORD0290,4/19/2024,P003,Veg Sandwich,Meals,8,60,35,3.58,New,UPI
+ORD0291,1/20/2024,P002,Potato Chips,Snacks,6,40,20,8.35,New,Card
+ORD0292,10/18/2024,P001,Cola Drink,Beverages,8,30,15,3.56,New,Wallet
+ORD0293,8/30/2024,P005,Coffee,Beverages,4,50,25,1.28,New,Card
+ORD0294,12/27/2024,P002,Potato Chips,Snacks,8,40,20,8.54,Returning,Cash
+ORD0295,6/29/2024,P004,Chocolate Bar,Snacks,5,25,10,8.41,Returning,Cash
+ORD0296,9/18/2024,P001,Cola Drink,Beverages,3,30,15,0.54,Returning,Card
+ORD0297,11/22/2024,P001,Cola Drink,Beverages,2,30,15,23.3,Returning,Cash
+ORD0298,5/14/2024,P002,Potato Chips,Snacks,3,40,20,4.45,Returning,UPI
+ORD0299,9/3/2024,P004,Chocolate Bar,Snacks,5,25,10,15.27,New,UPI
+ORD0300,1/10/2024,P003,Veg Sandwich,Meals,5,60,35,2.99,Returning,UPI
+ORD0301,9/10/2024,P003,Veg Sandwich,Meals,7,60,35,16.07,New,Card
+ORD0302,1/3/2024,P001,Cola Drink,Beverages,4,30,15,6.66,Returning,Wallet
+ORD0303,7/3/2024,P001,Cola Drink,Beverages,6,30,15,7.08,New,UPI
+ORD0304,4/21/2024,P003,Veg Sandwich,Meals,4,60,35,16.5,New,Cash
+ORD0305,5/7/2024,P004,Chocolate Bar,Snacks,5,25,10,16.39,New,Card
+ORD0306,2/23/2024,P004,Chocolate Bar,Snacks,3,25,10,8.82,New,Card
+ORD0307,4/19/2024,P003,Veg Sandwich,Meals,5,60,35,20.36,Returning,Cash
+ORD0308,7/31/2024,P001,Cola Drink,Beverages,7,30,15,5.27,New,Card
+ORD0309,1/18/2024,P002,Potato Chips,Snacks,5,40,20,14.32,Returning,Wallet
+ORD0310,3/3/2024,P002,Potato Chips,Snacks,5,40,20,11,New,Cash
+ORD0311,7/6/2024,P005,Coffee,Beverages,7,50,25,16.75,New,Cash
+ORD0312,3/27/2024,P002,Potato Chips,Snacks,3,40,20,24.21,New,Wallet
+ORD0313,3/9/2024,P005,Coffee,Beverages,1,50,25,18.29,Returning,Wallet
+ORD0314,4/6/2024,P001,Cola Drink,Beverages,2,30,15,23.61,New,Card
+ORD0315,5/18/2024,P001,Cola Drink,Beverages,7,30,15,4.88,New,Wallet
+ORD0316,4/24/2024,P004,Chocolate Bar,Snacks,1,25,10,3.92,New,UPI
+ORD0317,7/12/2024,P001,Cola Drink,Beverages,4,30,15,22.86,New,Wallet
+ORD0318,12/23/2024,P004,Chocolate Bar,Snacks,8,25,10,8.91,New,UPI
+ORD0319,8/19/2024,P003,Veg Sandwich,Meals,3,60,35,9.95,New,UPI
+ORD0320,8/19/2024,P002,Potato Chips,Snacks,7,40,20,6.94,New,UPI
+ORD0321,1/19/2024,P003,Veg Sandwich,Meals,1,60,35,15.31,New,Cash
+ORD0322,4/15/2024,P003,Veg Sandwich,Meals,8,60,35,17.98,Returning,Cash
+ORD0323,4/10/2024,P001,Cola Drink,Beverages,2,30,15,18.82,New,Cash
+ORD0324,10/23/2024,P001,Cola Drink,Beverages,4,30,15,15.89,Returning,Wallet
+ORD0325,8/16/2024,P005,Coffee,Beverages,1,50,25,24.68,New,Card
+ORD0326,12/14/2024,P003,Veg Sandwich,Meals,2,60,35,3.11,Returning,Card
+ORD0327,9/25/2024,P001,Cola Drink,Beverages,8,30,15,5.66,New,Card
+ORD0328,5/25/2024,P002,Potato Chips,Snacks,5,40,20,6.24,Returning,Wallet
+ORD0329,10/22/2024,P001,Cola Drink,Beverages,5,30,15,14.76,Returning,Wallet
+ORD0330,7/9/2024,P005,Coffee,Beverages,5,50,25,3.65,Returning,Wallet
+ORD0331,6/23/2024,P003,Veg Sandwich,Meals,1,60,35,23.46,New,Card
+ORD0332,12/27/2024,P002,Potato Chips,Snacks,8,40,20,13.56,New,Wallet
+ORD0333,7/23/2024,P005,Coffee,Beverages,1,50,25,17.52,Returning,Card
+ORD0334,10/17/2024,P002,Potato Chips,Snacks,3,40,20,21.81,Returning,UPI
+ORD0335,5/2/2024,P003,Veg Sandwich,Meals,7,60,35,24.61,New,Wallet
+ORD0336,2/17/2024,P002,Potato Chips,Snacks,3,40,20,9.05,New,Wallet
+ORD0337,9/8/2024,P003,Veg Sandwich,Meals,2,60,35,10.8,New,Cash
+ORD0338,10/23/2024,P003,Veg Sandwich,Meals,5,60,35,6.07,Returning,UPI
+ORD0339,1/19/2024,P002,Potato Chips,Snacks,5,40,20,20.97,New,UPI
+ORD0340,3/25/2024,P004,Chocolate Bar,Snacks,5,25,10,10.37,New,Wallet
+ORD0341,1/18/2024,P002,Potato Chips,Snacks,1,40,20,13.04,New,Card
+ORD0342,3/13/2024,P002,Potato Chips,Snacks,2,40,20,2.08,Returning,Cash
+ORD0343,2/9/2024,P002,Potato Chips,Snacks,7,40,20,20.21,Returning,Cash
+ORD0344,6/20/2024,P003,Veg Sandwich,Meals,4,60,35,14.69,Returning,Card
+ORD0345,10/5/2024,P005,Coffee,Beverages,8,50,25,12.33,New,Wallet
+ORD0346,6/21/2024,P001,Cola Drink,Beverages,5,30,15,23.34,New,UPI
+ORD0347,10/16/2024,P002,Potato Chips,Snacks,1,40,20,21.94,Returning,UPI
+ORD0348,6/20/2024,P003,Veg Sandwich,Meals,5,60,35,3.92,Returning,Wallet
+ORD0349,4/29/2024,P003,Veg Sandwich,Meals,8,60,35,2.67,New,Cash
+ORD0350,7/13/2024,P001,Cola Drink,Beverages,8,30,15,8.98,New,UPI
+ORD0351,7/2/2024,P005,Coffee,Beverages,8,50,25,23.81,Returning,Card
+ORD0352,8/13/2024,P001,Cola Drink,Beverages,8,30,15,22.37,New,Wallet
+ORD0353,11/15/2024,P004,Chocolate Bar,Snacks,7,25,10,22.06,New,Cash
+ORD0354,5/31/2024,P004,Chocolate Bar,Snacks,1,25,10,10.5,Returning,Wallet
+ORD0355,11/1/2024,P003,Veg Sandwich,Meals,2,60,35,20.03,New,UPI
+ORD0356,3/18/2024,P005,Coffee,Beverages,1,50,25,17.04,New,UPI
+ORD0357,6/15/2024,P004,Chocolate Bar,Snacks,2,25,10,7.03,Returning,Wallet
+ORD0358,12/9/2024,P004,Chocolate Bar,Snacks,6,25,10,1.56,New,UPI
+ORD0359,9/5/2024,P001,Cola Drink,Beverages,7,30,15,24.57,New,Wallet
+ORD0360,8/17/2024,P004,Chocolate Bar,Snacks,5,25,10,14.67,Returning,Card
+ORD0361,2/16/2024,P003,Veg Sandwich,Meals,7,60,35,11.14,New,UPI
+ORD0362,4/3/2024,P002,Potato Chips,Snacks,5,40,20,18.68,New,UPI
+ORD0363,5/25/2024,P002,Potato Chips,Snacks,7,40,20,11.85,New,Card
+ORD0364,5/27/2024,P004,Chocolate Bar,Snacks,4,25,10,23.82,Returning,UPI
+ORD0365,8/16/2024,P001,Cola Drink,Beverages,7,30,15,7.67,New,UPI
+ORD0366,11/4/2024,P005,Coffee,Beverages,7,50,25,8.94,Returning,Cash
+ORD0367,1/5/2024,P001,Cola Drink,Beverages,5,30,15,22.42,New,Card
+ORD0368,1/10/2024,P005,Coffee,Beverages,1,50,25,0.29,New,Cash
+ORD0369,7/26/2024,P004,Chocolate Bar,Snacks,7,25,10,16.83,New,Card
+ORD0370,5/12/2024,P005,Coffee,Beverages,6,50,25,4.96,Returning,Wallet
+ORD0371,7/6/2024,P002,Potato Chips,Snacks,1,40,20,12.69,Returning,UPI
+ORD0372,10/28/2024,P001,Cola Drink,Beverages,5,30,15,7.22,New,Wallet
+ORD0373,8/5/2024,P005,Coffee,Beverages,4,50,25,23.95,Returning,Cash
+ORD0374,6/13/2024,P004,Chocolate Bar,Snacks,4,25,10,6.74,Returning,Wallet
+ORD0375,5/14/2024,P004,Chocolate Bar,Snacks,5,25,10,1.01,New,UPI
+ORD0376,6/16/2024,P002,Potato Chips,Snacks,5,40,20,2.18,New,Wallet
+ORD0377,8/24/2024,P003,Veg Sandwich,Meals,3,60,35,13.25,Returning,Card
+ORD0378,5/1/2024,P002,Potato Chips,Snacks,7,40,20,9.46,New,Cash
+ORD0379,12/30/2024,P002,Potato Chips,Snacks,4,40,20,19.08,Returning,Wallet
+ORD0380,10/23/2024,P002,Potato Chips,Snacks,6,40,20,8.89,New,UPI
+ORD0381,4/1/2024,P005,Coffee,Beverages,5,50,25,20.79,New,UPI
+ORD0382,3/23/2024,P003,Veg Sandwich,Meals,6,60,35,22.8,New,Wallet
+ORD0383,10/31/2024,P004,Chocolate Bar,Snacks,4,25,10,9.69,New,Wallet
+ORD0384,1/6/2024,P005,Coffee,Beverages,1,50,25,23.26,New,Wallet
+ORD0385,5/4/2024,P005,Coffee,Beverages,8,50,25,5.88,Returning,Wallet
+ORD0386,7/7/2024,P005,Coffee,Beverages,1,50,25,7.24,Returning,UPI
+ORD0387,4/10/2024,P001,Cola Drink,Beverages,4,30,15,3.73,New,Card
+ORD0388,5/20/2024,P002,Potato Chips,Snacks,8,40,20,13.46,New,UPI
+ORD0389,8/8/2024,P002,Potato Chips,Snacks,5,40,20,23.54,Returning,Wallet
+ORD0390,8/8/2024,P004,Chocolate Bar,Snacks,4,25,10,13.42,Returning,Wallet
+ORD0391,2/5/2024,P002,Potato Chips,Snacks,1,40,20,1.37,Returning,Wallet
+ORD0392,1/7/2024,P002,Potato Chips,Snacks,5,40,20,10.08,New,UPI
+ORD0393,3/23/2024,P003,Veg Sandwich,Meals,4,60,35,20.06,New,Wallet
+ORD0394,6/10/2024,P004,Chocolate Bar,Snacks,7,25,10,5.47,New,Cash
+ORD0395,11/12/2024,P003,Veg Sandwich,Meals,3,60,35,1.75,New,Cash
+ORD0396,12/28/2024,P002,Potato Chips,Snacks,7,40,20,1.83,Returning,Wallet
+ORD0397,8/7/2024,P004,Chocolate Bar,Snacks,1,25,10,11.7,New,Wallet
+ORD0398,10/23/2024,P003,Veg Sandwich,Meals,1,60,35,15.31,Returning,UPI
+ORD0399,6/1/2024,P004,Chocolate Bar,Snacks,6,25,10,0.11,Returning,Cash
+ORD0400,8/15/2024,P001,Cola Drink,Beverages,4,30,15,2.52,New,Card
+ORD0401,12/10/2024,P004,Chocolate Bar,Snacks,6,25,10,16.77,New,Cash
+ORD0402,2/14/2024,P002,Potato Chips,Snacks,5,40,20,11.62,Returning,Card
+ORD0403,6/6/2024,P002,Potato Chips,Snacks,7,40,20,23.16,New,Cash
+ORD0404,1/11/2024,P002,Potato Chips,Snacks,3,40,20,8.15,Returning,Wallet
+ORD0405,5/15/2024,P002,Potato Chips,Snacks,2,40,20,11.64,Returning,Wallet
+ORD0406,7/25/2024,P003,Veg Sandwich,Meals,8,60,35,3.98,New,Card
+ORD0407,12/16/2024,P005,Coffee,Beverages,6,50,25,25,New,Cash
+ORD0408,4/28/2024,P001,Cola Drink,Beverages,5,30,15,20.8,New,Wallet
+ORD0409,12/29/2024,P001,Cola Drink,Beverages,5,30,15,24.01,Returning,UPI
+ORD0410,11/30/2024,P002,Potato Chips,Snacks,3,40,20,1.28,Returning,Wallet
+ORD0411,6/23/2024,P003,Veg Sandwich,Meals,6,60,35,3.24,New,Card
+ORD0412,12/12/2024,P004,Chocolate Bar,Snacks,5,25,10,17.52,New,Card
+ORD0413,12/23/2024,P005,Coffee,Beverages,8,50,25,5.88,New,Cash
+ORD0414,4/17/2024,P005,Coffee,Beverages,7,50,25,18.96,Returning,UPI
+ORD0415,4/11/2024,P002,Potato Chips,Snacks,4,40,20,1.38,Returning,Cash
+ORD0416,9/26/2024,P003,Veg Sandwich,Meals,5,60,35,12.37,New,Wallet
+ORD0417,2/18/2024,P004,Chocolate Bar,Snacks,7,25,10,3.58,Returning,UPI
+ORD0418,3/20/2024,P003,Veg Sandwich,Meals,6,60,35,17.3,New,Card
+ORD0419,8/25/2024,P001,Cola Drink,Beverages,7,30,15,10.31,Returning,Wallet
+ORD0420,2/2/2024,P002,Potato Chips,Snacks,7,40,20,2.66,New,Wallet
+ORD0421,9/14/2024,P002,Potato Chips,Snacks,2,40,20,19.96,New,Card
+ORD0422,7/26/2024,P001,Cola Drink,Beverages,1,30,15,20.97,New,UPI
+ORD0423,2/27/2024,P001,Cola Drink,Beverages,2,30,15,23.24,New,Card
+ORD0424,10/3/2024,P005,Coffee,Beverages,5,50,25,20.66,New,Cash
+ORD0425,5/29/2024,P002,Potato Chips,Snacks,3,40,20,14.73,New,Wallet
+ORD0426,12/10/2024,P002,Potato Chips,Snacks,8,40,20,12.48,Returning,Card
+ORD0427,8/2/2024,P004,Chocolate Bar,Snacks,4,25,10,14.09,Returning,Wallet
+ORD0428,6/4/2024,P001,Cola Drink,Beverages,5,30,15,8.47,New,Cash
+ORD0429,2/5/2024,P005,Coffee,Beverages,7,50,25,5.95,Returning,Card
+ORD0430,12/28/2024,P002,Potato Chips,Snacks,1,40,20,2.5,Returning,Card
+ORD0431,9/27/2024,P005,Coffee,Beverages,2,50,25,7.54,Returning,Card
+ORD0432,12/3/2024,P005,Coffee,Beverages,4,50,25,18.23,New,Card
+ORD0433,11/8/2024,P001,Cola Drink,Beverages,1,30,15,1.27,Returning,Cash
+ORD0434,12/12/2024,P002,Potato Chips,Snacks,3,40,20,3.02,Returning,Wallet
+ORD0435,4/9/2024,P003,Veg Sandwich,Meals,3,60,35,11.65,New,UPI
+ORD0436,5/2/2024,P002,Potato Chips,Snacks,8,40,20,3.31,Returning,Wallet
+ORD0437,6/29/2024,P002,Potato Chips,Snacks,5,40,20,7.72,Returning,Card
+ORD0438,1/5/2024,P001,Cola Drink,Beverages,1,30,15,17.51,Returning,UPI
+ORD0439,9/22/2024,P005,Coffee,Beverages,7,50,25,11.45,New,Wallet
+ORD0440,2/13/2024,P004,Chocolate Bar,Snacks,1,25,10,14.05,New,Cash
+ORD0441,8/15/2024,P005,Coffee,Beverages,8,50,25,4.78,Returning,Cash
+ORD0442,4/25/2024,P001,Cola Drink,Beverages,1,30,15,8.4,New,Cash
+ORD0443,1/9/2024,P004,Chocolate Bar,Snacks,1,25,10,12.12,New,Wallet
+ORD0444,12/17/2024,P004,Chocolate Bar,Snacks,5,25,10,7.05,Returning,Card
+ORD0445,5/27/2024,P004,Chocolate Bar,Snacks,1,25,10,20.51,New,Cash
+ORD0446,9/25/2024,P005,Coffee,Beverages,7,50,25,18.76,New,Wallet
+ORD0447,3/18/2024,P002,Potato Chips,Snacks,1,40,20,15.22,Returning,UPI
+ORD0448,6/19/2024,P004,Chocolate Bar,Snacks,7,25,10,5.88,New,Wallet
+ORD0449,8/4/2024,P004,Chocolate Bar,Snacks,2,25,10,22.24,Returning,UPI
+ORD0450,7/11/2024,P004,Chocolate Bar,Snacks,4,25,10,13.99,Returning,Cash
+ORD0451,9/14/2024,P004,Chocolate Bar,Snacks,7,25,10,4.85,Returning,UPI
+ORD0452,2/2/2024,P004,Chocolate Bar,Snacks,3,25,10,19.92,Returning,Wallet
+ORD0453,8/31/2024,P001,Cola Drink,Beverages,4,30,15,11.26,New,Wallet
+ORD0454,5/29/2024,P003,Veg Sandwich,Meals,8,60,35,20.76,Returning,Card
+ORD0455,10/30/2024,P001,Cola Drink,Beverages,3,30,15,13.86,New,Wallet
+ORD0456,9/30/2024,P005,Coffee,Beverages,8,50,25,18.37,Returning,Wallet
+ORD0457,12/1/2024,P003,Veg Sandwich,Meals,2,60,35,17.55,New,Card
+ORD0458,9/20/2024,P005,Coffee,Beverages,6,50,25,9.1,New,Card
+ORD0459,2/21/2024,P002,Potato Chips,Snacks,6,40,20,12.59,New,Wallet
+ORD0460,10/23/2024,P001,Cola Drink,Beverages,6,30,15,8.91,Returning,Wallet
+ORD0461,1/22/2024,P004,Chocolate Bar,Snacks,4,25,10,3.81,Returning,Wallet
+ORD0462,6/30/2024,P004,Chocolate Bar,Snacks,3,25,10,12.28,New,Wallet
+ORD0463,7/11/2024,P004,Chocolate Bar,Snacks,8,25,10,7.75,New,Wallet
+ORD0464,1/28/2024,P001,Cola Drink,Beverages,7,30,15,2.08,New,Wallet
+ORD0465,8/31/2024,P004,Chocolate Bar,Snacks,3,25,10,5.62,New,Cash
+ORD0466,2/26/2024,P002,Potato Chips,Snacks,8,40,20,21.36,New,Cash
+ORD0467,8/16/2024,P005,Coffee,Beverages,4,50,25,12.76,New,Card
+ORD0468,7/31/2024,P003,Veg Sandwich,Meals,2,60,35,22.03,Returning,UPI
+ORD0469,9/1/2024,P005,Coffee,Beverages,3,50,25,1.84,New,Cash
+ORD0470,10/16/2024,P004,Chocolate Bar,Snacks,4,25,10,21.6,New,Card
+ORD0471,1/22/2024,P002,Potato Chips,Snacks,7,40,20,19.55,New,Card
+ORD0472,7/9/2024,P002,Potato Chips,Snacks,3,40,20,11.97,Returning,UPI
+ORD0473,12/23/2024,P003,Veg Sandwich,Meals,5,60,35,11.32,New,Wallet
+ORD0474,6/4/2024,P003,Veg Sandwich,Meals,1,60,35,14.39,New,Wallet
+ORD0475,11/28/2024,P002,Potato Chips,Snacks,6,40,20,13.5,Returning,UPI
+ORD0476,2/19/2024,P002,Potato Chips,Snacks,5,40,20,20.39,New,Wallet
+ORD0477,10/16/2024,P001,Cola Drink,Beverages,7,30,15,22.59,Returning,Cash
+ORD0478,12/16/2024,P003,Veg Sandwich,Meals,6,60,35,21.89,New,UPI
+ORD0479,8/30/2024,P002,Potato Chips,Snacks,1,40,20,5.79,New,Wallet
+ORD0480,11/11/2024,P003,Veg Sandwich,Meals,3,60,35,21.67,New,Wallet
+ORD0481,10/13/2024,P005,Coffee,Beverages,3,50,25,17.53,Returning,Card
+ORD0482,3/3/2024,P001,Cola Drink,Beverages,8,30,15,23.46,Returning,UPI
+ORD0483,12/8/2024,P005,Coffee,Beverages,7,50,25,5.98,Returning,Wallet
+ORD0484,8/30/2024,P004,Chocolate Bar,Snacks,2,25,10,16.5,Returning,UPI
+ORD0485,8/29/2024,P004,Chocolate Bar,Snacks,4,25,10,6.29,Returning,Card
+ORD0486,5/28/2024,P005,Coffee,Beverages,5,50,25,12.8,Returning,Card
+ORD0487,5/18/2024,P004,Chocolate Bar,Snacks,5,25,10,4.61,New,Card
+ORD0488,3/13/2024,P001,Cola Drink,Beverages,6,30,15,22.41,Returning,UPI
+ORD0489,12/23/2024,P002,Potato Chips,Snacks,1,40,20,8.23,New,Card
+ORD0490,3/23/2024,P005,Coffee,Beverages,3,50,25,16.82,Returning,Cash
+ORD0491,11/16/2024,P002,Potato Chips,Snacks,8,40,20,6.62,New,Card
+ORD0492,11/9/2024,P001,Cola Drink,Beverages,7,30,15,5.75,New,Card
+ORD0493,4/6/2024,P002,Potato Chips,Snacks,8,40,20,4.81,Returning,Cash
+ORD0494,7/15/2024,P001,Cola Drink,Beverages,1,30,15,16.69,Returning,Wallet
+ORD0495,1/27/2024,P004,Chocolate Bar,Snacks,2,25,10,0.58,Returning,Wallet
+ORD0496,1/26/2024,P001,Cola Drink,Beverages,2,30,15,21.89,New,UPI
+ORD0497,1/24/2024,P004,Chocolate Bar,Snacks,7,25,10,15.68,Returning,Cash
+ORD0498,6/12/2024,P001,Cola Drink,Beverages,3,30,15,15.32,New,UPI
+ORD0499,4/10/2024,P005,Coffee,Beverages,2,50,25,12.43,New,Cash
+ORD0500,11/5/2024,P004,Chocolate Bar,Snacks,7,25,10,10.06,New,Wallet
+ORD0501,8/12/2024,P002,Potato Chips,Snacks,4,40,20,2.56,New,Card
+ORD0502,8/17/2024,P001,Cola Drink,Beverages,6,30,15,5.43,Returning,Card
+ORD0503,12/7/2024,P005,Coffee,Beverages,4,50,25,6.46,New,Wallet
+ORD0504,5/30/2024,P002,Potato Chips,Snacks,4,40,20,10.77,New,Wallet
+ORD0505,2/5/2024,P003,Veg Sandwich,Meals,1,60,35,18.38,New,Card
+ORD0506,2/13/2024,P005,Coffee,Beverages,6,50,25,0.99,New,Cash
+ORD0507,3/12/2024,P002,Potato Chips,Snacks,3,40,20,3.18,Returning,Cash
+ORD0508,12/8/2024,P004,Chocolate Bar,Snacks,2,25,10,4.26,Returning,Card
+ORD0509,10/29/2024,P003,Veg Sandwich,Meals,8,60,35,4.67,Returning,Cash
+ORD0510,1/1/2024,P004,Chocolate Bar,Snacks,7,25,10,6.66,New,UPI
+ORD0511,1/5/2024,P004,Chocolate Bar,Snacks,1,25,10,22.71,New,Cash
+ORD0512,11/9/2024,P001,Cola Drink,Beverages,8,30,15,7.06,New,UPI
+ORD0513,11/8/2024,P001,Cola Drink,Beverages,6,30,15,2.15,New,UPI
+ORD0514,5/9/2024,P002,Potato Chips,Snacks,2,40,20,14.01,New,UPI
+ORD0515,1/15/2024,P001,Cola Drink,Beverages,6,30,15,4.23,Returning,Card
+ORD0516,2/8/2024,P004,Chocolate Bar,Snacks,1,25,10,20.85,New,Card
+ORD0517,11/3/2024,P005,Coffee,Beverages,6,50,25,14.25,Returning,Cash
+ORD0518,8/18/2024,P004,Chocolate Bar,Snacks,5,25,10,6.15,Returning,UPI
+ORD0519,8/15/2024,P005,Coffee,Beverages,8,50,25,1.04,Returning,Wallet
+ORD0520,10/6/2024,P003,Veg Sandwich,Meals,7,60,35,3.83,Returning,UPI
+ORD0521,1/12/2024,P002,Potato Chips,Snacks,6,40,20,23.95,Returning,UPI
+ORD0522,6/19/2024,P005,Coffee,Beverages,6,50,25,9.02,Returning,Cash
+ORD0523,4/12/2024,P005,Coffee,Beverages,7,50,25,8.98,Returning,Cash
+ORD0524,7/5/2024,P001,Cola Drink,Beverages,4,30,15,23.64,New,Card
+ORD0525,9/30/2024,P002,Potato Chips,Snacks,1,40,20,6.15,New,Cash
+ORD0526,5/10/2024,P003,Veg Sandwich,Meals,7,60,35,4.21,New,Cash
+ORD0527,9/11/2024,P004,Chocolate Bar,Snacks,5,25,10,14.39,Returning,Wallet
+ORD0528,8/1/2024,P004,Chocolate Bar,Snacks,7,25,10,23.91,Returning,UPI
+ORD0529,2/2/2024,P001,Cola Drink,Beverages,7,30,15,3.18,New,Card
+ORD0530,10/17/2024,P005,Coffee,Beverages,5,50,25,11.62,Returning,Cash
+ORD0531,5/20/2024,P004,Chocolate Bar,Snacks,7,25,10,0.06,Returning,Cash
+ORD0532,8/20/2024,P004,Chocolate Bar,Snacks,3,25,10,24.64,Returning,Cash
+ORD0533,8/27/2024,P004,Chocolate Bar,Snacks,2,25,10,6.51,Returning,UPI
+ORD0534,5/28/2024,P002,Potato Chips,Snacks,5,40,20,21.76,New,Card
+ORD0535,3/7/2024,P004,Chocolate Bar,Snacks,6,25,10,8.59,Returning,Cash
+ORD0536,11/3/2024,P001,Cola Drink,Beverages,3,30,15,0.4,New,Card
+ORD0537,8/20/2024,P001,Cola Drink,Beverages,5,30,15,21.36,New,Card
+ORD0538,7/21/2024,P005,Coffee,Beverages,4,50,25,10.79,New,Cash
+ORD0539,11/11/2024,P001,Cola Drink,Beverages,4,30,15,11.21,Returning,Wallet
+ORD0540,9/3/2024,P002,Potato Chips,Snacks,6,40,20,9.92,Returning,Card
+ORD0541,5/29/2024,P002,Potato Chips,Snacks,4,40,20,16.27,Returning,Cash
+ORD0542,10/31/2024,P003,Veg Sandwich,Meals,7,60,35,23.95,New,Card
+ORD0543,11/6/2024,P003,Veg Sandwich,Meals,8,60,35,2.02,New,UPI
+ORD0544,7/29/2024,P005,Coffee,Beverages,5,50,25,9.54,New,Wallet
+ORD0545,6/2/2024,P002,Potato Chips,Snacks,5,40,20,2.01,New,Cash
+ORD0546,3/24/2024,P001,Cola Drink,Beverages,1,30,15,2.79,New,UPI
+ORD0547,1/22/2024,P004,Chocolate Bar,Snacks,4,25,10,9.89,New,Wallet
+ORD0548,1/28/2024,P005,Coffee,Beverages,5,50,25,11.89,Returning,Cash
+ORD0549,9/1/2024,P002,Potato Chips,Snacks,2,40,20,3.09,Returning,Cash
+ORD0550,4/9/2024,P003,Veg Sandwich,Meals,1,60,35,24.2,New,Card
+ORD0551,9/16/2024,P003,Veg Sandwich,Meals,1,60,35,17.4,Returning,UPI
+ORD0552,12/16/2024,P004,Chocolate Bar,Snacks,6,25,10,14.18,New,Wallet
+ORD0553,6/12/2024,P002,Potato Chips,Snacks,2,40,20,8.42,New,Wallet
+ORD0554,4/19/2024,P001,Cola Drink,Beverages,2,30,15,5.91,Returning,UPI
+ORD0555,12/6/2024,P004,Chocolate Bar,Snacks,6,25,10,3.7,New,UPI
+ORD0556,11/5/2024,P005,Coffee,Beverages,7,50,25,24.37,New,Card
+ORD0557,6/4/2024,P001,Cola Drink,Beverages,3,30,15,15.28,New,Wallet
+ORD0558,10/7/2024,P004,Chocolate Bar,Snacks,2,25,10,9.3,Returning,Card
+ORD0559,10/23/2024,P005,Coffee,Beverages,3,50,25,4.5,New,Wallet
+ORD0560,5/14/2024,P002,Potato Chips,Snacks,8,40,20,24.7,Returning,UPI
+ORD0561,8/7/2024,P003,Veg Sandwich,Meals,1,60,35,17.93,Returning,Wallet
+ORD0562,10/9/2024,P004,Chocolate Bar,Snacks,2,25,10,5.07,Returning,UPI
+ORD0563,10/16/2024,P004,Chocolate Bar,Snacks,1,25,10,21.03,New,UPI
+ORD0564,5/16/2024,P003,Veg Sandwich,Meals,1,60,35,10.18,Returning,Wallet
+ORD0565,4/17/2024,P004,Chocolate Bar,Snacks,6,25,10,1.04,Returning,UPI
+ORD0566,3/25/2024,P005,Coffee,Beverages,2,50,25,16.02,Returning,Card
+ORD0567,7/25/2024,P001,Cola Drink,Beverages,2,30,15,22.03,Returning,UPI
+ORD0568,12/9/2024,P003,Veg Sandwich,Meals,3,60,35,23.43,Returning,Wallet
+ORD0569,4/7/2024,P004,Chocolate Bar,Snacks,8,25,10,18.82,New,Card
+ORD0570,3/12/2024,P004,Chocolate Bar,Snacks,5,25,10,8.62,New,Wallet
+ORD0571,3/22/2024,P003,Veg Sandwich,Meals,6,60,35,11.19,Returning,UPI
+ORD0572,1/24/2024,P004,Chocolate Bar,Snacks,5,25,10,8.02,Returning,Cash
+ORD0573,10/7/2024,P001,Cola Drink,Beverages,1,30,15,23.6,New,Cash
+ORD0574,6/20/2024,P004,Chocolate Bar,Snacks,6,25,10,22.96,Returning,Cash
+ORD0575,5/15/2024,P005,Coffee,Beverages,6,50,25,14.23,New,Wallet
+ORD0576,7/16/2024,P003,Veg Sandwich,Meals,2,60,35,6.96,Returning,UPI
+ORD0577,5/5/2024,P002,Potato Chips,Snacks,1,40,20,0.95,Returning,Cash
+ORD0578,10/5/2024,P001,Cola Drink,Beverages,1,30,15,23.5,Returning,Wallet
+ORD0579,6/22/2024,P004,Chocolate Bar,Snacks,3,25,10,23.68,New,Cash
+ORD0580,11/23/2024,P003,Veg Sandwich,Meals,2,60,35,24.69,Returning,Card
+ORD0581,9/9/2024,P002,Potato Chips,Snacks,8,40,20,3.92,New,UPI
+ORD0582,1/24/2024,P003,Veg Sandwich,Meals,8,60,35,21.72,New,Card
+ORD0583,12/3/2024,P004,Chocolate Bar,Snacks,7,25,10,9.28,New,Wallet
+ORD0584,10/30/2024,P002,Potato Chips,Snacks,4,40,20,10.09,New,UPI
+ORD0585,2/29/2024,P004,Chocolate Bar,Snacks,3,25,10,1.52,New,Wallet
+ORD0586,5/28/2024,P003,Veg Sandwich,Meals,5,60,35,14.53,Returning,Card
+ORD0587,4/19/2024,P004,Chocolate Bar,Snacks,2,25,10,23.49,New,Wallet
+ORD0588,10/4/2024,P003,Veg Sandwich,Meals,3,60,35,16.37,New,Wallet
+ORD0589,3/23/2024,P001,Cola Drink,Beverages,1,30,15,3.11,Returning,UPI
+ORD0590,4/20/2024,P002,Potato Chips,Snacks,2,40,20,12.67,New,Cash
+ORD0591,2/27/2024,P002,Potato Chips,Snacks,2,40,20,1.64,New,Wallet
+ORD0592,12/20/2024,P002,Potato Chips,Snacks,3,40,20,24.06,New,Cash
+ORD0593,9/6/2024,P003,Veg Sandwich,Meals,6,60,35,18.56,Returning,Wallet
+ORD0594,3/1/2024,P002,Potato Chips,Snacks,4,40,20,11.65,Returning,Cash
+ORD0595,8/9/2024,P002,Potato Chips,Snacks,1,40,20,0.88,Returning,Wallet
+ORD0596,4/18/2024,P003,Veg Sandwich,Meals,5,60,35,18.38,Returning,Cash
+ORD0597,5/7/2024,P001,Cola Drink,Beverages,4,30,15,9.21,New,Wallet
+ORD0598,10/23/2024,P003,Veg Sandwich,Meals,2,60,35,14.62,New,UPI
+ORD0599,11/22/2024,P005,Coffee,Beverages,1,50,25,2.67,Returning,Card
+ORD0600,10/31/2024,P005,Coffee,Beverages,6,50,25,2.42,New,UPI
+ORD0601,8/18/2024,P001,Cola Drink,Beverages,3,30,15,24.47,New,UPI
+ORD0602,2/2/2024,P001,Cola Drink,Beverages,5,30,15,17.65,New,Wallet
+ORD0603,2/10/2024,P001,Cola Drink,Beverages,1,30,15,19.1,New,Cash
+ORD0604,4/16/2024,P005,Coffee,Beverages,2,50,25,16.33,New,Card
+ORD0605,7/10/2024,P002,Potato Chips,Snacks,3,40,20,22.22,Returning,Card
+ORD0606,12/1/2024,P002,Potato Chips,Snacks,4,40,20,20.3,New,Cash
+ORD0607,7/4/2024,P002,Potato Chips,Snacks,5,40,20,11.23,Returning,Card
+ORD0608,7/16/2024,P001,Cola Drink,Beverages,5,30,15,5.98,Returning,UPI
+ORD0609,6/28/2024,P004,Chocolate Bar,Snacks,6,25,10,14.03,New,Card
+ORD0610,8/17/2024,P002,Potato Chips,Snacks,3,40,20,1.64,Returning,Wallet
+ORD0611,7/22/2024,P002,Potato Chips,Snacks,5,40,20,8.65,New,Cash
+ORD0612,8/10/2024,P004,Chocolate Bar,Snacks,6,25,10,16.67,Returning,Wallet
+ORD0613,5/5/2024,P003,Veg Sandwich,Meals,5,60,35,16.02,Returning,Wallet
+ORD0614,11/8/2024,P003,Veg Sandwich,Meals,6,60,35,10.08,New,Wallet
+ORD0615,8/31/2024,P001,Cola Drink,Beverages,8,30,15,23.68,New,UPI
+ORD0616,7/22/2024,P005,Coffee,Beverages,1,50,25,16.94,Returning,Wallet
+ORD0617,12/22/2024,P001,Cola Drink,Beverages,4,30,15,16.78,Returning,Cash
+ORD0618,5/22/2024,P004,Chocolate Bar,Snacks,4,25,10,4.22,Returning,Wallet
+ORD0619,8/27/2024,P001,Cola Drink,Beverages,1,30,15,21.3,Returning,Wallet
+ORD0620,8/11/2024,P001,Cola Drink,Beverages,5,30,15,20.39,New,Card
+ORD0621,12/18/2024,P001,Cola Drink,Beverages,5,30,15,8.22,New,Wallet
+ORD0622,1/14/2024,P003,Veg Sandwich,Meals,6,60,35,19.18,Returning,Cash
+ORD0623,3/7/2024,P004,Chocolate Bar,Snacks,6,25,10,22.72,Returning,Cash
+ORD0624,6/22/2024,P001,Cola Drink,Beverages,8,30,15,1.62,New,Wallet
+ORD0625,11/13/2024,P004,Chocolate Bar,Snacks,6,25,10,10.88,New,Cash
+ORD0626,11/6/2024,P005,Coffee,Beverages,8,50,25,7.14,Returning,Cash
+ORD0627,10/25/2024,P005,Coffee,Beverages,6,50,25,8.75,New,Wallet
+ORD0628,6/25/2024,P004,Chocolate Bar,Snacks,4,25,10,13.7,Returning,Card
+ORD0629,8/6/2024,P005,Coffee,Beverages,2,50,25,5.91,New,Cash
+ORD0630,7/11/2024,P005,Coffee,Beverages,7,50,25,15.44,New,Card
+ORD0631,12/7/2024,P002,Potato Chips,Snacks,2,40,20,11.3,Returning,Card
+ORD0632,5/28/2024,P004,Chocolate Bar,Snacks,4,25,10,20.74,New,UPI
+ORD0633,11/9/2024,P004,Chocolate Bar,Snacks,6,25,10,0.1,New,UPI
+ORD0634,9/26/2024,P003,Veg Sandwich,Meals,7,60,35,14.53,Returning,Cash
+ORD0635,11/7/2024,P005,Coffee,Beverages,1,50,25,15.34,New,Cash
+ORD0636,8/5/2024,P005,Coffee,Beverages,4,50,25,5,Returning,Card
+ORD0637,6/11/2024,P004,Chocolate Bar,Snacks,7,25,10,23.76,New,UPI
+ORD0638,3/31/2024,P003,Veg Sandwich,Meals,1,60,35,19.09,Returning,Wallet
+ORD0639,7/5/2024,P005,Coffee,Beverages,4,50,25,1.15,New,Card
+ORD0640,6/9/2024,P002,Potato Chips,Snacks,2,40,20,22.59,Returning,Cash
+ORD0641,11/17/2024,P004,Chocolate Bar,Snacks,4,25,10,6.53,Returning,Wallet
+ORD0642,6/12/2024,P004,Chocolate Bar,Snacks,6,25,10,4.41,Returning,UPI
+ORD0643,5/23/2024,P005,Coffee,Beverages,5,50,25,18.21,New,Card
+ORD0644,10/1/2024,P002,Potato Chips,Snacks,5,40,20,13.6,Returning,Card
+ORD0645,9/10/2024,P002,Potato Chips,Snacks,2,40,20,5.28,Returning,UPI
+ORD0646,2/12/2024,P001,Cola Drink,Beverages,2,30,15,23.79,New,Wallet
+ORD0647,3/15/2024,P005,Coffee,Beverages,1,50,25,14.03,Returning,Cash
+ORD0648,4/29/2024,P005,Coffee,Beverages,3,50,25,24.41,Returning,Card
+ORD0649,1/4/2024,P003,Veg Sandwich,Meals,5,60,35,1.88,New,Wallet
+ORD0650,9/21/2024,P005,Coffee,Beverages,6,50,25,10.96,New,Wallet
+ORD0651,11/12/2024,P001,Cola Drink,Beverages,3,30,15,18.44,New,Card
+ORD0652,12/14/2024,P003,Veg Sandwich,Meals,4,60,35,16.58,New,Card
+ORD0653,1/27/2024,P005,Coffee,Beverages,6,50,25,4.79,New,Cash
+ORD0654,8/3/2024,P001,Cola Drink,Beverages,2,30,15,0.61,New,Wallet
+ORD0655,7/25/2024,P002,Potato Chips,Snacks,6,40,20,19.23,New,Cash
+ORD0656,2/4/2024,P004,Chocolate Bar,Snacks,1,25,10,14.9,Returning,Card
+ORD0657,11/26/2024,P002,Potato Chips,Snacks,6,40,20,2.16,New,Wallet
+ORD0658,3/28/2024,P001,Cola Drink,Beverages,2,30,15,10.98,New,Card
+ORD0659,8/15/2024,P004,Chocolate Bar,Snacks,1,25,10,17.64,New,UPI
+ORD0660,6/19/2024,P003,Veg Sandwich,Meals,7,60,35,1.88,Returning,UPI
+ORD0661,9/10/2024,P004,Chocolate Bar,Snacks,6,25,10,6.9,New,Wallet
+ORD0662,10/28/2024,P001,Cola Drink,Beverages,2,30,15,9.66,Returning,Wallet
+ORD0663,1/29/2024,P003,Veg Sandwich,Meals,6,60,35,11.12,Returning,UPI
+ORD0664,3/7/2024,P004,Chocolate Bar,Snacks,5,25,10,13.37,Returning,Cash
+ORD0665,2/7/2024,P001,Cola Drink,Beverages,3,30,15,7.91,New,UPI
+ORD0666,11/13/2024,P002,Potato Chips,Snacks,1,40,20,2.32,New,Cash
+ORD0667,4/22/2024,P004,Chocolate Bar,Snacks,6,25,10,17.71,Returning,Cash
+ORD0668,6/7/2024,P002,Potato Chips,Snacks,4,40,20,8.01,Returning,UPI
+ORD0669,10/26/2024,P002,Potato Chips,Snacks,6,40,20,6.03,Returning,Cash
+ORD0670,9/15/2024,P002,Potato Chips,Snacks,7,40,20,16.89,Returning,Card
+ORD0671,8/5/2024,P004,Chocolate Bar,Snacks,6,25,10,23.81,New,Cash
+ORD0672,1/11/2024,P002,Potato Chips,Snacks,1,40,20,2.38,Returning,Cash
+ORD0673,10/18/2024,P005,Coffee,Beverages,5,50,25,5.51,Returning,Card
+ORD0674,12/27/2024,P002,Potato Chips,Snacks,4,40,20,14.84,Returning,UPI
+ORD0675,5/29/2024,P001,Cola Drink,Beverages,4,30,15,0.3,New,Wallet
+ORD0676,5/8/2024,P001,Cola Drink,Beverages,2,30,15,9.83,New,Card
+ORD0677,9/25/2024,P003,Veg Sandwich,Meals,7,60,35,17.06,New,UPI
+ORD0678,11/19/2024,P003,Veg Sandwich,Meals,8,60,35,15.12,Returning,Card
+ORD0679,4/20/2024,P002,Potato Chips,Snacks,7,40,20,14.8,New,UPI
+ORD0680,11/3/2024,P004,Chocolate Bar,Snacks,3,25,10,9.23,Returning,Wallet
+ORD0681,10/21/2024,P005,Coffee,Beverages,8,50,25,21.13,Returning,Wallet
+ORD0682,3/29/2024,P003,Veg Sandwich,Meals,1,60,35,16.24,Returning,Cash
+ORD0683,4/16/2024,P003,Veg Sandwich,Meals,1,60,35,11.12,New,Card
+ORD0684,4/16/2024,P003,Veg Sandwich,Meals,7,60,35,22.31,Returning,Cash
+ORD0685,5/7/2024,P002,Potato Chips,Snacks,6,40,20,11.71,New,Wallet
+ORD0686,9/7/2024,P001,Cola Drink,Beverages,1,30,15,24.34,New,Card
+ORD0687,12/6/2024,P002,Potato Chips,Snacks,3,40,20,22.65,Returning,Card
+ORD0688,2/20/2024,P005,Coffee,Beverages,8,50,25,13.33,New,Cash
+ORD0689,5/16/2024,P002,Potato Chips,Snacks,4,40,20,8.64,New,UPI
+ORD0690,3/24/2024,P004,Chocolate Bar,Snacks,5,25,10,12.73,New,Wallet
+ORD0691,10/3/2024,P001,Cola Drink,Beverages,4,30,15,16.37,New,UPI
+ORD0692,5/28/2024,P001,Cola Drink,Beverages,8,30,15,24.05,New,Cash
+ORD0693,8/9/2024,P005,Coffee,Beverages,5,50,25,5.13,New,Cash
+ORD0694,6/24/2024,P005,Coffee,Beverages,5,50,25,2.92,Returning,Card
+ORD0695,5/16/2024,P001,Cola Drink,Beverages,7,30,15,18.52,Returning,Wallet
+ORD0696,4/12/2024,P003,Veg Sandwich,Meals,5,60,35,18,New,Cash
+ORD0697,9/11/2024,P002,Potato Chips,Snacks,2,40,20,11.82,Returning,Cash
+ORD0698,3/2/2024,P001,Cola Drink,Beverages,6,30,15,22.73,Returning,UPI
+ORD0699,2/3/2024,P002,Potato Chips,Snacks,7,40,20,23.77,Returning,Card
+ORD0700,11/6/2024,P002,Potato Chips,Snacks,5,40,20,2.82,Returning,Card
+ORD0701,1/7/2024,P004,Chocolate Bar,Snacks,5,25,10,9.08,Returning,Card
+ORD0702,10/18/2024,P005,Coffee,Beverages,8,50,25,3.94,Returning,Cash
+ORD0703,11/26/2024,P004,Chocolate Bar,Snacks,8,25,10,14.31,Returning,Card
+ORD0704,4/21/2024,P003,Veg Sandwich,Meals,5,60,35,12.14,New,Card
+ORD0705,1/21/2024,P003,Veg Sandwich,Meals,5,60,35,3.9,New,Card
+ORD0706,10/15/2024,P005,Coffee,Beverages,6,50,25,15.27,Returning,Wallet
+ORD0707,5/24/2024,P004,Chocolate Bar,Snacks,4,25,10,9.08,New,Card
+ORD0708,1/1/2024,P002,Potato Chips,Snacks,4,40,20,1.99,New,UPI
+ORD0709,5/16/2024,P001,Cola Drink,Beverages,6,30,15,16.45,Returning,Cash
+ORD0710,1/3/2024,P002,Potato Chips,Snacks,8,40,20,19.49,New,Wallet
+ORD0711,11/7/2024,P005,Coffee,Beverages,2,50,25,20.64,Returning,Cash
+ORD0712,9/2/2024,P001,Cola Drink,Beverages,2,30,15,22.93,Returning,Wallet
+ORD0713,9/6/2024,P004,Chocolate Bar,Snacks,3,25,10,2.25,Returning,Wallet
+ORD0714,7/31/2024,P002,Potato Chips,Snacks,2,40,20,5.56,Returning,UPI
+ORD0715,6/17/2024,P001,Cola Drink,Beverages,4,30,15,16.58,New,Cash
+ORD0716,9/28/2024,P001,Cola Drink,Beverages,7,30,15,7.63,Returning,Cash
+ORD0717,9/17/2024,P002,Potato Chips,Snacks,5,40,20,21.83,New,Cash
+ORD0718,7/6/2024,P004,Chocolate Bar,Snacks,8,25,10,16.2,New,Card
+ORD0719,11/15/2024,P002,Potato Chips,Snacks,6,40,20,16.13,Returning,UPI
+ORD0720,9/23/2024,P002,Potato Chips,Snacks,3,40,20,2.75,Returning,Wallet
+ORD0721,6/16/2024,P005,Coffee,Beverages,5,50,25,21.67,New,Card
+ORD0722,6/26/2024,P004,Chocolate Bar,Snacks,8,25,10,21.88,New,Cash
+ORD0723,10/17/2024,P005,Coffee,Beverages,7,50,25,6.59,New,Card
+ORD0724,1/15/2024,P005,Coffee,Beverages,7,50,25,5.87,Returning,UPI
+ORD0725,7/17/2024,P005,Coffee,Beverages,1,50,25,10.43,Returning,Cash
+ORD0726,6/16/2024,P004,Chocolate Bar,Snacks,2,25,10,12.62,Returning,Card
+ORD0727,8/27/2024,P005,Coffee,Beverages,1,50,25,15.11,New,UPI
+ORD0728,5/15/2024,P003,Veg Sandwich,Meals,2,60,35,15.38,Returning,UPI
+ORD0729,6/29/2024,P001,Cola Drink,Beverages,6,30,15,9.92,New,Card
+ORD0730,1/2/2024,P005,Coffee,Beverages,3,50,25,21.37,New,Cash
+ORD0731,8/30/2024,P004,Chocolate Bar,Snacks,4,25,10,18.41,New,Cash
+ORD0732,2/1/2024,P002,Potato Chips,Snacks,2,40,20,2.99,Returning,Cash
+ORD0733,3/21/2024,P005,Coffee,Beverages,8,50,25,9.2,New,Card
+ORD0734,11/17/2024,P005,Coffee,Beverages,6,50,25,0.66,New,Card
+ORD0735,3/20/2024,P003,Veg Sandwich,Meals,7,60,35,16.07,New,Card
+ORD0736,2/16/2024,P005,Coffee,Beverages,5,50,25,12.93,New,Card
+ORD0737,12/5/2024,P001,Cola Drink,Beverages,6,30,15,5.4,New,Wallet
+ORD0738,4/6/2024,P005,Coffee,Beverages,8,50,25,13.9,New,Cash
+ORD0739,6/28/2024,P003,Veg Sandwich,Meals,5,60,35,9.35,New,UPI
+ORD0740,8/30/2024,P004,Chocolate Bar,Snacks,3,25,10,13.95,New,Cash
+ORD0741,10/11/2024,P004,Chocolate Bar,Snacks,2,25,10,2.61,New,Wallet
+ORD0742,2/22/2024,P003,Veg Sandwich,Meals,6,60,35,1.5,Returning,Cash
+ORD0743,4/9/2024,P001,Cola Drink,Beverages,4,30,15,14.47,New,Card
+ORD0744,6/10/2024,P003,Veg Sandwich,Meals,2,60,35,11.46,Returning,UPI
+ORD0745,6/9/2024,P003,Veg Sandwich,Meals,8,60,35,15.74,Returning,UPI
+ORD0746,5/12/2024,P005,Coffee,Beverages,7,50,25,14.95,New,Card
+ORD0747,4/30/2024,P005,Coffee,Beverages,7,50,25,20.31,New,Cash
+ORD0748,2/20/2024,P002,Potato Chips,Snacks,6,40,20,14.49,New,Cash
+ORD0749,8/20/2024,P003,Veg Sandwich,Meals,8,60,35,0.14,Returning,UPI
+ORD0750,1/4/2024,P004,Chocolate Bar,Snacks,5,25,10,23.93,New,Card
+ORD0751,3/25/2024,P002,Potato Chips,Snacks,5,40,20,23.96,Returning,UPI
+ORD0752,8/2/2024,P005,Coffee,Beverages,8,50,25,20.54,New,Cash
+ORD0753,12/3/2024,P001,Cola Drink,Beverages,8,30,15,7.63,New,Wallet
+ORD0754,8/4/2024,P002,Potato Chips,Snacks,4,40,20,15.62,Returning,UPI
+ORD0755,8/11/2024,P003,Veg Sandwich,Meals,1,60,35,6.17,New,Card
+ORD0756,9/16/2024,P002,Potato Chips,Snacks,2,40,20,4.77,Returning,Card
+ORD0757,11/16/2024,P003,Veg Sandwich,Meals,5,60,35,7.03,New,Card
+ORD0758,4/27/2024,P002,Potato Chips,Snacks,1,40,20,21.13,Returning,UPI
+ORD0759,11/25/2024,P001,Cola Drink,Beverages,2,30,15,19.01,Returning,UPI
+ORD0760,5/17/2024,P005,Coffee,Beverages,7,50,25,5.71,New,Wallet
+ORD0761,3/20/2024,P004,Chocolate Bar,Snacks,7,25,10,7.94,Returning,Wallet
+ORD0762,1/19/2024,P004,Chocolate Bar,Snacks,8,25,10,3.19,New,Cash
+ORD0763,7/19/2024,P005,Coffee,Beverages,6,50,25,5.77,New,Cash
+ORD0764,1/16/2024,P004,Chocolate Bar,Snacks,5,25,10,2.75,New,Card
+ORD0765,5/27/2024,P002,Potato Chips,Snacks,7,40,20,14.86,New,Wallet
+ORD0766,7/2/2024,P005,Coffee,Beverages,7,50,25,1.17,New,Card
+ORD0767,2/27/2024,P004,Chocolate Bar,Snacks,8,25,10,7.15,Returning,Card
+ORD0768,5/17/2024,P005,Coffee,Beverages,3,50,25,0.96,Returning,Wallet
+ORD0769,3/24/2024,P001,Cola Drink,Beverages,5,30,15,1.59,New,UPI
+ORD0770,6/13/2024,P004,Chocolate Bar,Snacks,6,25,10,20.86,Returning,Wallet
+ORD0771,11/2/2024,P001,Cola Drink,Beverages,5,30,15,24.11,Returning,Card
+ORD0772,9/4/2024,P004,Chocolate Bar,Snacks,5,25,10,16.2,New,Card
+ORD0773,3/16/2024,P002,Potato Chips,Snacks,8,40,20,15.26,New,Wallet
+ORD0774,10/23/2024,P002,Potato Chips,Snacks,2,40,20,3.72,New,Cash
+ORD0775,8/29/2024,P002,Potato Chips,Snacks,2,40,20,4.93,New,UPI
+ORD0776,7/2/2024,P002,Potato Chips,Snacks,4,40,20,17.88,New,Cash
+ORD0777,9/19/2024,P004,Chocolate Bar,Snacks,4,25,10,5.61,Returning,Cash
+ORD0778,7/1/2024,P003,Veg Sandwich,Meals,4,60,35,2.61,New,Cash
+ORD0779,1/21/2024,P004,Chocolate Bar,Snacks,2,25,10,22.94,New,Card
+ORD0780,10/3/2024,P002,Potato Chips,Snacks,1,40,20,3.15,New,Cash
+ORD0781,2/12/2024,P003,Veg Sandwich,Meals,3,60,35,5.17,New,Wallet
+ORD0782,4/16/2024,P001,Cola Drink,Beverages,1,30,15,11.63,Returning,Wallet
+ORD0783,7/28/2024,P005,Coffee,Beverages,7,50,25,23.94,Returning,Wallet
+ORD0784,6/19/2024,P003,Veg Sandwich,Meals,6,60,35,19.13,New,UPI
+ORD0785,11/29/2024,P004,Chocolate Bar,Snacks,7,25,10,4.01,New,UPI
+ORD0786,6/18/2024,P004,Chocolate Bar,Snacks,3,25,10,2.34,New,Wallet
+ORD0787,12/20/2024,P004,Chocolate Bar,Snacks,1,25,10,20.22,Returning,Cash
+ORD0788,2/25/2024,P003,Veg Sandwich,Meals,6,60,35,20.74,New,Cash
+ORD0789,9/16/2024,P001,Cola Drink,Beverages,7,30,15,7.87,Returning,Card
+ORD0790,8/12/2024,P002,Potato Chips,Snacks,6,40,20,20.74,New,Card
+ORD0791,2/13/2024,P002,Potato Chips,Snacks,2,40,20,5.47,New,Wallet
+ORD0792,1/17/2024,P001,Cola Drink,Beverages,4,30,15,16.62,Returning,UPI
+ORD0793,10/4/2024,P005,Coffee,Beverages,7,50,25,11.32,Returning,Wallet
+ORD0794,1/3/2024,P005,Coffee,Beverages,1,50,25,10.54,New,Wallet
+ORD0795,11/25/2024,P002,Potato Chips,Snacks,4,40,20,6.47,New,Wallet
+ORD0796,4/30/2024,P002,Potato Chips,Snacks,7,40,20,0.19,Returning,Card
+ORD0797,3/19/2024,P004,Chocolate Bar,Snacks,3,25,10,15.29,New,Wallet
+ORD0798,6/7/2024,P003,Veg Sandwich,Meals,8,60,35,2.15,Returning,Cash
+ORD0799,8/29/2024,P002,Potato Chips,Snacks,4,40,20,2.23,Returning,UPI
+ORD0800,4/6/2024,P002,Potato Chips,Snacks,4,40,20,7.74,Returning,Card
+ORD0801,2/11/2024,P002,Potato Chips,Snacks,1,40,20,21.77,New,Wallet
+ORD0802,12/29/2024,P005,Coffee,Beverages,6,50,25,9,Returning,UPI
+ORD0803,11/12/2024,P004,Chocolate Bar,Snacks,6,25,10,7.93,New,Wallet
+ORD0804,10/23/2024,P005,Coffee,Beverages,1,50,25,14.46,New,UPI
+ORD0805,10/2/2024,P001,Cola Drink,Beverages,5,30,15,0.9,Returning,Card
+ORD0806,11/17/2024,P005,Coffee,Beverages,7,50,25,1.27,Returning,Cash
+ORD0807,4/29/2024,P003,Veg Sandwich,Meals,7,60,35,23.76,Returning,Cash
+ORD0808,2/22/2024,P002,Potato Chips,Snacks,2,40,20,1.91,Returning,Card
+ORD0809,5/8/2024,P003,Veg Sandwich,Meals,5,60,35,8.84,New,Wallet
+ORD0810,9/2/2024,P005,Coffee,Beverages,3,50,25,0.83,Returning,UPI
+ORD0811,10/21/2024,P001,Cola Drink,Beverages,6,30,15,3.49,Returning,Cash
+ORD0812,7/8/2024,P005,Coffee,Beverages,4,50,25,18.2,Returning,Card
+ORD0813,2/7/2024,P004,Chocolate Bar,Snacks,3,25,10,0.12,Returning,UPI
+ORD0814,8/3/2024,P001,Cola Drink,Beverages,2,30,15,4.77,New,Wallet
+ORD0815,3/24/2024,P001,Cola Drink,Beverages,3,30,15,15.55,Returning,Wallet
+ORD0816,9/24/2024,P001,Cola Drink,Beverages,6,30,15,23.3,New,UPI
+ORD0817,1/30/2024,P005,Coffee,Beverages,6,50,25,18.34,New,Cash
+ORD0818,2/25/2024,P004,Chocolate Bar,Snacks,8,25,10,6.89,New,Cash
+ORD0819,2/8/2024,P001,Cola Drink,Beverages,6,30,15,14.46,New,Wallet
+ORD0820,8/17/2024,P005,Coffee,Beverages,3,50,25,4.47,New,Card
+ORD0821,8/14/2024,P002,Potato Chips,Snacks,2,40,20,15.94,Returning,Cash
+ORD0822,2/17/2024,P002,Potato Chips,Snacks,7,40,20,22.89,Returning,UPI
+ORD0823,10/5/2024,P003,Veg Sandwich,Meals,7,60,35,8.62,Returning,Card
+ORD0824,12/16/2024,P002,Potato Chips,Snacks,3,40,20,24.97,New,Cash
+ORD0825,8/22/2024,P004,Chocolate Bar,Snacks,2,25,10,14.53,New,Card
+ORD0826,6/16/2024,P004,Chocolate Bar,Snacks,7,25,10,6.78,Returning,Cash
+ORD0827,4/11/2024,P005,Coffee,Beverages,7,50,25,21.23,New,UPI
+ORD0828,12/15/2024,P003,Veg Sandwich,Meals,7,60,35,21.06,New,Card
+ORD0829,8/27/2024,P002,Potato Chips,Snacks,1,40,20,4.06,New,Cash
+ORD0830,7/1/2024,P002,Potato Chips,Snacks,3,40,20,2.86,New,Cash
+ORD0831,5/18/2024,P003,Veg Sandwich,Meals,2,60,35,4.96,Returning,Cash
+ORD0832,11/21/2024,P001,Cola Drink,Beverages,2,30,15,7.02,New,Cash
+ORD0833,1/15/2024,P001,Cola Drink,Beverages,2,30,15,5.67,Returning,Card
+ORD0834,6/28/2024,P005,Coffee,Beverages,3,50,25,24.16,New,Card
+ORD0835,4/18/2024,P001,Cola Drink,Beverages,7,30,15,1.11,New,Wallet
+ORD0836,10/5/2024,P003,Veg Sandwich,Meals,2,60,35,12.08,New,UPI
+ORD0837,1/2/2024,P004,Chocolate Bar,Snacks,4,25,10,3.13,New,Wallet
+ORD0838,9/17/2024,P002,Potato Chips,Snacks,8,40,20,21.19,Returning,UPI
+ORD0839,3/13/2024,P004,Chocolate Bar,Snacks,2,25,10,5.4,Returning,Wallet
+ORD0840,7/3/2024,P003,Veg Sandwich,Meals,7,60,35,24.43,New,Card
+ORD0841,8/6/2024,P003,Veg Sandwich,Meals,5,60,35,24.73,Returning,Cash
+ORD0842,9/6/2024,P005,Coffee,Beverages,3,50,25,18.79,New,UPI
+ORD0843,6/20/2024,P003,Veg Sandwich,Meals,3,60,35,12.82,New,Card
+ORD0844,12/22/2024,P003,Veg Sandwich,Meals,2,60,35,23.86,New,UPI
+ORD0845,3/26/2024,P001,Cola Drink,Beverages,7,30,15,21.83,New,Card
+ORD0846,6/19/2024,P001,Cola Drink,Beverages,6,30,15,4.59,New,Cash
+ORD0847,4/25/2024,P005,Coffee,Beverages,5,50,25,13.81,New,Card
+ORD0848,12/10/2024,P003,Veg Sandwich,Meals,6,60,35,8.82,New,Cash
+ORD0849,9/12/2024,P002,Potato Chips,Snacks,2,40,20,18.01,Returning,UPI
+ORD0850,10/27/2024,P002,Potato Chips,Snacks,6,40,20,24.58,New,Card
+ORD0851,12/20/2024,P002,Potato Chips,Snacks,3,40,20,5.77,Returning,UPI
+ORD0852,1/30/2024,P002,Potato Chips,Snacks,7,40,20,13.16,New,Cash
+ORD0853,10/13/2024,P002,Potato Chips,Snacks,1,40,20,0.97,Returning,Wallet
+ORD0854,11/5/2024,P005,Coffee,Beverages,1,50,25,13.67,New,UPI
+ORD0855,4/13/2024,P005,Coffee,Beverages,7,50,25,4.9,Returning,Wallet
+ORD0856,7/12/2024,P001,Cola Drink,Beverages,3,30,15,12.6,New,Wallet
+ORD0857,4/1/2024,P004,Chocolate Bar,Snacks,1,25,10,6.57,New,Card
+ORD0858,9/28/2024,P002,Potato Chips,Snacks,2,40,20,16.81,New,Cash
+ORD0859,11/19/2024,P001,Cola Drink,Beverages,6,30,15,0.96,Returning,UPI
+ORD0860,10/16/2024,P002,Potato Chips,Snacks,7,40,20,22.57,New,Card
+ORD0861,9/3/2024,P001,Cola Drink,Beverages,1,30,15,20.79,New,UPI
+ORD0862,10/21/2024,P002,Potato Chips,Snacks,3,40,20,6.31,New,UPI
+ORD0863,12/5/2024,P005,Coffee,Beverages,7,50,25,7.77,New,Cash
+ORD0864,8/31/2024,P001,Cola Drink,Beverages,2,30,15,21.71,New,UPI
+ORD0865,7/30/2024,P002,Potato Chips,Snacks,3,40,20,16.95,Returning,Cash
+ORD0866,1/21/2024,P001,Cola Drink,Beverages,2,30,15,18.93,New,UPI
+ORD0867,12/4/2024,P001,Cola Drink,Beverages,6,30,15,16.55,Returning,Cash
+ORD0868,4/30/2024,P004,Chocolate Bar,Snacks,5,25,10,2.13,Returning,Cash
+ORD0869,6/11/2024,P002,Potato Chips,Snacks,1,40,20,23.26,Returning,Wallet
+ORD0870,1/2/2024,P004,Chocolate Bar,Snacks,7,25,10,21.04,Returning,UPI
+ORD0871,10/21/2024,P005,Coffee,Beverages,4,50,25,15.04,Returning,UPI
+ORD0872,9/7/2024,P003,Veg Sandwich,Meals,6,60,35,19.49,New,Cash
+ORD0873,7/16/2024,P001,Cola Drink,Beverages,4,30,15,10.95,New,Cash
+ORD0874,12/3/2024,P003,Veg Sandwich,Meals,2,60,35,9.63,New,UPI
+ORD0875,11/8/2024,P003,Veg Sandwich,Meals,1,60,35,4.97,New,Wallet
+ORD0876,7/11/2024,P002,Potato Chips,Snacks,7,40,20,1.43,Returning,Card
+ORD0877,5/9/2024,P001,Cola Drink,Beverages,2,30,15,9.9,New,UPI
+ORD0878,6/19/2024,P003,Veg Sandwich,Meals,8,60,35,19.28,Returning,UPI
+ORD0879,2/20/2024,P005,Coffee,Beverages,8,50,25,5.3,New,UPI
+ORD0880,12/6/2024,P003,Veg Sandwich,Meals,7,60,35,3.04,Returning,Card
+ORD0881,3/8/2024,P001,Cola Drink,Beverages,1,30,15,11.77,Returning,Cash
+ORD0882,3/9/2024,P004,Chocolate Bar,Snacks,5,25,10,11.91,New,Card
+ORD0883,12/24/2024,P004,Chocolate Bar,Snacks,5,25,10,3.44,Returning,Card
+ORD0884,1/6/2024,P004,Chocolate Bar,Snacks,4,25,10,3.96,Returning,Wallet
+ORD0885,11/1/2024,P004,Chocolate Bar,Snacks,6,25,10,4.65,New,Wallet
+ORD0886,7/11/2024,P002,Potato Chips,Snacks,4,40,20,19.67,Returning,UPI
+ORD0887,6/30/2024,P004,Chocolate Bar,Snacks,4,25,10,20.28,Returning,Card
+ORD0888,10/13/2024,P003,Veg Sandwich,Meals,3,60,35,3.73,Returning,Wallet
+ORD0889,10/10/2024,P003,Veg Sandwich,Meals,3,60,35,22.44,New,Wallet
+ORD0890,4/8/2024,P002,Potato Chips,Snacks,4,40,20,7.6,Returning,Card
+ORD0891,12/28/2024,P005,Coffee,Beverages,3,50,25,4.91,Returning,Wallet
+ORD0892,7/7/2024,P004,Chocolate Bar,Snacks,1,25,10,7.28,New,UPI
+ORD0893,12/27/2024,P003,Veg Sandwich,Meals,2,60,35,11.88,New,UPI
+ORD0894,3/30/2024,P002,Potato Chips,Snacks,4,40,20,3.08,New,Cash
+ORD0895,5/11/2024,P005,Coffee,Beverages,8,50,25,10.65,New,Cash
+ORD0896,7/30/2024,P004,Chocolate Bar,Snacks,7,25,10,15.72,New,Cash
+ORD0897,12/8/2024,P004,Chocolate Bar,Snacks,7,25,10,18.25,Returning,Card
+ORD0898,9/17/2024,P005,Coffee,Beverages,6,50,25,2.7,New,UPI
+ORD0899,1/4/2024,P002,Potato Chips,Snacks,7,40,20,17.68,New,Wallet
+ORD0900,5/14/2024,P002,Potato Chips,Snacks,5,40,20,13.45,New,Card
+ORD0901,7/17/2024,P005,Coffee,Beverages,6,50,25,17.35,Returning,Card
+ORD0902,8/11/2024,P005,Coffee,Beverages,2,50,25,13.76,New,Wallet
+ORD0903,2/29/2024,P002,Potato Chips,Snacks,3,40,20,11.14,Returning,Card
+ORD0904,7/23/2024,P004,Chocolate Bar,Snacks,5,25,10,12.03,New,Wallet
+ORD0905,4/27/2024,P002,Potato Chips,Snacks,1,40,20,11.42,New,UPI
+ORD0906,6/17/2024,P004,Chocolate Bar,Snacks,4,25,10,7.71,New,UPI
+ORD0907,3/1/2024,P002,Potato Chips,Snacks,5,40,20,23.38,New,Cash
+ORD0908,2/16/2024,P003,Veg Sandwich,Meals,6,60,35,20.09,New,UPI
+ORD0909,1/17/2024,P001,Cola Drink,Beverages,8,30,15,21.5,New,Card
+ORD0910,11/10/2024,P001,Cola Drink,Beverages,2,30,15,10.59,New,Cash
+ORD0911,6/3/2024,P001,Cola Drink,Beverages,1,30,15,22.2,Returning,UPI
+ORD0912,4/7/2024,P003,Veg Sandwich,Meals,6,60,35,7.28,New,Wallet
+ORD0913,8/16/2024,P002,Potato Chips,Snacks,1,40,20,12.64,New,Wallet
+ORD0914,7/16/2024,P002,Potato Chips,Snacks,6,40,20,21.26,Returning,Cash
+ORD0915,11/20/2024,P003,Veg Sandwich,Meals,1,60,35,7.69,Returning,UPI
+ORD0916,2/7/2024,P005,Coffee,Beverages,6,50,25,23.73,New,Card
+ORD0917,5/1/2024,P003,Veg Sandwich,Meals,8,60,35,23.83,Returning,UPI
+ORD0918,10/29/2024,P004,Chocolate Bar,Snacks,5,25,10,12.55,Returning,Cash
+ORD0919,3/21/2024,P003,Veg Sandwich,Meals,4,60,35,3.77,Returning,Wallet
+ORD0920,6/25/2024,P005,Coffee,Beverages,5,50,25,13.23,Returning,Cash
+ORD0921,6/12/2024,P003,Veg Sandwich,Meals,4,60,35,15.15,New,Cash
+ORD0922,8/16/2024,P005,Coffee,Beverages,3,50,25,22.91,New,Card
+ORD0923,10/27/2024,P002,Potato Chips,Snacks,5,40,20,3.45,Returning,Cash
+ORD0924,8/2/2024,P001,Cola Drink,Beverages,1,30,15,17.92,New,Wallet
+ORD0925,9/11/2024,P001,Cola Drink,Beverages,7,30,15,22.06,New,Cash
+ORD0926,6/9/2024,P001,Cola Drink,Beverages,7,30,15,18.96,Returning,UPI
+ORD0927,2/17/2024,P002,Potato Chips,Snacks,5,40,20,5.5,New,Card
+ORD0928,12/28/2024,P004,Chocolate Bar,Snacks,8,25,10,22.3,Returning,UPI
+ORD0929,7/30/2024,P003,Veg Sandwich,Meals,8,60,35,14.48,New,UPI
+ORD0930,4/11/2024,P002,Potato Chips,Snacks,5,40,20,1.24,Returning,Wallet
+ORD0931,1/10/2024,P002,Potato Chips,Snacks,5,40,20,5.64,Returning,Card
+ORD0932,2/1/2024,P003,Veg Sandwich,Meals,5,60,35,21.4,New,Card
+ORD0933,11/6/2024,P001,Cola Drink,Beverages,2,30,15,12.05,New,Cash
+ORD0934,10/25/2024,P001,Cola Drink,Beverages,7,30,15,7.09,Returning,UPI
+ORD0935,2/12/2024,P002,Potato Chips,Snacks,7,40,20,6.25,New,Card
+ORD0936,1/12/2024,P004,Chocolate Bar,Snacks,3,25,10,5.47,Returning,Cash
+ORD0937,5/3/2024,P002,Potato Chips,Snacks,7,40,20,21.74,New,Card
+ORD0938,5/25/2024,P003,Veg Sandwich,Meals,7,60,35,19.05,New,UPI
+ORD0939,1/14/2024,P005,Coffee,Beverages,3,50,25,16.86,New,Wallet
+ORD0940,6/19/2024,P004,Chocolate Bar,Snacks,3,25,10,10.86,New,Wallet
+ORD0941,9/25/2024,P003,Veg Sandwich,Meals,3,60,35,7.22,Returning,Cash
+ORD0942,6/19/2024,P004,Chocolate Bar,Snacks,8,25,10,1.47,New,Card
+ORD0943,9/16/2024,P004,Chocolate Bar,Snacks,7,25,10,18.74,New,UPI
+ORD0944,3/30/2024,P001,Cola Drink,Beverages,8,30,15,14.18,New,Wallet
+ORD0945,7/21/2024,P001,Cola Drink,Beverages,8,30,15,23.98,Returning,UPI
+ORD0946,10/9/2024,P002,Potato Chips,Snacks,2,40,20,21.39,New,Wallet
+ORD0947,2/4/2024,P004,Chocolate Bar,Snacks,2,25,10,4.93,New,UPI
+ORD0948,8/2/2024,P001,Cola Drink,Beverages,8,30,15,20.73,New,Cash
+ORD0949,9/10/2024,P004,Chocolate Bar,Snacks,7,25,10,24.59,Returning,UPI
+ORD0950,6/9/2024,P005,Coffee,Beverages,6,50,25,17.57,Returning,Cash
+ORD0951,8/4/2024,P002,Potato Chips,Snacks,2,40,20,11.08,New,Cash
+ORD0952,12/6/2024,P005,Coffee,Beverages,4,50,25,16.48,Returning,UPI
+ORD0953,2/10/2024,P005,Coffee,Beverages,7,50,25,9.48,New,Cash
+ORD0954,7/22/2024,P005,Coffee,Beverages,3,50,25,1.92,New,Card
+ORD0955,3/24/2024,P002,Potato Chips,Snacks,3,40,20,22.56,New,UPI
+ORD0956,5/10/2024,P002,Potato Chips,Snacks,4,40,20,15.65,New,Card
+ORD0957,2/29/2024,P001,Cola Drink,Beverages,3,30,15,19.78,Returning,Wallet
+ORD0958,11/23/2024,P005,Coffee,Beverages,6,50,25,12.47,New,Cash
+ORD0959,2/1/2024,P004,Chocolate Bar,Snacks,5,25,10,13.27,New,Wallet
+ORD0960,10/10/2024,P005,Coffee,Beverages,3,50,25,9.36,Returning,Wallet
+ORD0961,11/27/2024,P003,Veg Sandwich,Meals,1,60,35,7.51,Returning,Cash
+ORD0962,12/11/2024,P003,Veg Sandwich,Meals,3,60,35,22.3,Returning,Cash
+ORD0963,6/11/2024,P002,Potato Chips,Snacks,1,40,20,20.46,Returning,Card
+ORD0964,5/25/2024,P004,Chocolate Bar,Snacks,6,25,10,9.36,New,UPI
+ORD0965,4/16/2024,P003,Veg Sandwich,Meals,1,60,35,6.44,New,Cash
+ORD0966,4/4/2024,P003,Veg Sandwich,Meals,8,60,35,11.26,New,Wallet
+ORD0967,11/19/2024,P002,Potato Chips,Snacks,7,40,20,1.62,Returning,Card
+ORD0968,10/19/2024,P004,Chocolate Bar,Snacks,5,25,10,10.27,Returning,Card
+ORD0969,11/2/2024,P005,Coffee,Beverages,4,50,25,4.75,New,Card
+ORD0970,9/9/2024,P003,Veg Sandwich,Meals,4,60,35,22.72,New,Card
+ORD0971,11/25/2024,P004,Chocolate Bar,Snacks,6,25,10,7.49,Returning,UPI
+ORD0972,9/23/2024,P004,Chocolate Bar,Snacks,1,25,10,8.2,New,UPI
+ORD0973,1/19/2024,P003,Veg Sandwich,Meals,6,60,35,5.96,New,UPI
+ORD0974,4/9/2024,P005,Coffee,Beverages,5,50,25,10.46,New,Wallet
+ORD0975,8/21/2024,P002,Potato Chips,Snacks,7,40,20,24.94,New,UPI
+ORD0976,3/14/2024,P004,Chocolate Bar,Snacks,2,25,10,16.15,New,Cash
+ORD0977,10/17/2024,P005,Coffee,Beverages,1,50,25,6.46,New,Cash
+ORD0978,4/12/2024,P002,Potato Chips,Snacks,8,40,20,7.64,Returning,Cash
+ORD0979,8/2/2024,P001,Cola Drink,Beverages,2,30,15,13.14,Returning,Card
+ORD0980,5/4/2024,P001,Cola Drink,Beverages,3,30,15,13.31,Returning,Cash
+ORD0981,10/1/2024,P003,Veg Sandwich,Meals,1,60,35,9.48,Returning,Wallet
+ORD0982,12/2/2024,P004,Chocolate Bar,Snacks,8,25,10,7.23,Returning,Wallet
+ORD0983,6/14/2024,P005,Coffee,Beverages,5,50,25,17.21,Returning,Card
+ORD0984,9/25/2024,P003,Veg Sandwich,Meals,6,60,35,4,Returning,UPI
+ORD0985,1/24/2024,P001,Cola Drink,Beverages,3,30,15,7.33,New,Card
+ORD0986,12/17/2024,P001,Cola Drink,Beverages,2,30,15,4.08,New,UPI
+ORD0987,8/20/2024,P004,Chocolate Bar,Snacks,2,25,10,9.17,Returning,UPI
+ORD0988,3/18/2024,P002,Potato Chips,Snacks,7,40,20,21.58,New,Card
+ORD0989,11/10/2024,P001,Cola Drink,Beverages,8,30,15,9.54,Returning,UPI
+ORD0990,5/8/2024,P001,Cola Drink,Beverages,8,30,15,12.07,New,Card
+ORD0991,8/23/2024,P003,Veg Sandwich,Meals,2,60,35,0.99,Returning,UPI
+ORD0992,5/3/2024,P004,Chocolate Bar,Snacks,1,25,10,22.93,New,UPI
+ORD0993,8/15/2024,P003,Veg Sandwich,Meals,8,60,35,7.12,Returning,Cash
+ORD0994,5/21/2024,P003,Veg Sandwich,Meals,4,60,35,22.66,New,UPI
+ORD0995,4/28/2024,P002,Potato Chips,Snacks,4,40,20,15.76,New,Card
+ORD0996,3/13/2024,P003,Veg Sandwich,Meals,8,60,35,8.51,Returning,Cash
+ORD0997,2/5/2024,P005,Coffee,Beverages,1,50,25,24.81,Returning,Wallet
+ORD0998,9/24/2024,P002,Potato Chips,Snacks,8,40,20,7.2,New,Wallet
+ORD0999,1/2/2024,P001,Cola Drink,Beverages,5,30,15,20.75,Returning,UPI
+ORD1000,3/7/2024,P003,Veg Sandwich,Meals,3,60,35,6.04,Returning,Card
