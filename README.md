@@ -23,8 +23,9 @@ The interactive Power BI dashboard provides a comprehensive view of sales, profi
 ## 🖼 Power BI Dashboard Screenshot
 
 > *Below is the main dashboard used for analysis and insights.*
+![Tasty Bites Power BI Dashboard](images/TastyBitesDashboard.png)
 
-![Tasty Bites Power BI Dashboard](./Screenshot%202025-12-15%20183534.png)
+
 
 > *Note: This dashboard was built using Power BI with optimized DAX measures and interactive slicers.*
 
